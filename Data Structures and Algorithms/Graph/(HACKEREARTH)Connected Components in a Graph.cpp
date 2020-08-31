@@ -38,3 +38,6 @@ int main()
 	}
 	cout<<counter;
 }
+
+
+

@@ -8,9 +8,12 @@ int main()
 	int no_of_vertex, no_of_edges;
 	cout<<"Enter the number of vertices: ";
 	cin>>no_of_vertex;
+
+
 	int a[no_of_vertex+1][no_of_vertex+1];
 
 	memset(a, 0, sizeof(a));
+
 	int i, j;
 	cout<<"Enter the number of edges: ";
 	cin>>no_of_edges;
@@ -22,7 +25,7 @@ int main()
 		a[i][j] = a[j][i] = 1;
 	}
 
-	for(i = 1; i<no_of_vertex+1; i++){
+	for(i = 1; i <= no_of_vertex; i++){
 
 		for(j = 1; j<no_of_vertex+1; j++)
 			cout<<a[i][j]<<" ";
