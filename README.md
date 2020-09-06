@@ -22,8 +22,21 @@ According to us, competitive programming is a sport. A sport based on problem-so
 
 # Topics to be covered
 
-
 ## Big O Notations
 
+ - **CS Dojo** - Introduction to Big O Notation and Time Complexity
+ - **Simple Snippets** - Asymptotic Analysis of Algorithms with Example
+ - **Big-O CheatSheet** https://www.bigocheatsheet.com/
 
-## STL Library
+## STL Library (C++)
+- [ ] Vectors (Dynamic Arrays)
+- [ ] Sets
+  - Set
+  - Unordered Set
+  - Multiset
+- [ ] Queue
+- [ ] Stack
+- [ ] Map
+  - Map
+  - Unordered Map
+  - Multimap
