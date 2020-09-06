@@ -31,6 +31,10 @@ According to us, competitive programming is a sport. A sport based on problem-so
 
 ## Books
 - [Competitive Programming 3](https://cpbook.net/)
+- [Data Structures and Algorithms Made Easy](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X) - by Narasimha Karumanchi
+- [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) - by Gayle Laakmann McDowell
+
+---
 ## Learning Resources (Topic Wise)
 
 ### Big O Notations
