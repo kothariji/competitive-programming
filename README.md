@@ -88,3 +88,9 @@ According to us, competitive programming is a sport. A sport based on problem-so
  - **CodeNcode** - https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh
  - **Hitesh Tripathi** - https://www.youtube.com/watch?v=1BPQYzCYDx4&list=PLJOYB9TDUqmlnn9mu11qHxxQK_ioX9Wdm
 ---
+ ### Dynamic Programing
+ - **Tushar Roy** - https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
+ - **GeeksforGeeks** - https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm
+ - **Aditya Verma** - https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm
+ - **TakeYouForward** - https://www.youtube.com/watch?v=PPi3326JhGc&list=PLgUwDviBIf0pmD4Eur6Cl5XfBO4EtgKGe 
+---
