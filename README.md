@@ -29,6 +29,8 @@ According to us, competitive programming is a sport. A sport based on problem-so
  - CodeChef's SnackDown
 
 
+## Books
+- [Competitive Programming 3](https://cpbook.net/)
 ## Learning Resources (Topic Wise)
 
 ### Big O Notations
