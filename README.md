@@ -8,7 +8,7 @@ According to us, competitive programming is a sport. A sport based on problem-so
 
 ## Platform to practice Competitive Programming
 
-- #### [HackerRank (Must for a Beginner)](hackerrank.com)
+- #### [HackerRank (Must for a Beginner)](https://www.hackerrank.com/)
 - #### CodeChef 
 - #### CodeForces
 - #### HackerEarth
