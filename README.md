@@ -45,17 +45,18 @@ According to us, competitive programming is a sport. A sport based on problem-so
  - **CS Dojo** - Introduction to Big O Notation and Time Complexity
  - **Simple Snippets** - Asymptotic Analysis of Algorithms with Example
  - **Big-O CheatSheet** https://www.bigocheatsheet.com/
- 
+---
  ### STL in C++
  - **Codealittle** - https://www.youtube.com/watch?v=PCahjLFtlbY&list=PL1oKdRlSbldPUXbtWctRz14C1f8R78MVZ
  - **Takeyouforward** - https://www.youtube.com/watch?v=zBhVZzi5RdU&t=1s
- 
+---
  ### Binary Search
  - **Aditya Verma** https://www.youtube.com/watch?v=j7NodO9HIbk&list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2
- 
+---
  ### Number Theory (Mathematics)
  - **CodeNCode** - https://www.youtube.com/watch?v=eRkqvQtm4DU&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG
- 
+---
  ### Recursion and BackTracking
  - **Aditya Verma** - https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY
  - **Codealittle** - https://www.youtube.com/watch?v=-9FinR1AVys&list=PL1oKdRlSbldN8ffk23nuYQZwO0HSIPy9F 
+---
