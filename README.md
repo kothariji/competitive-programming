@@ -60,3 +60,11 @@ According to us, competitive programming is a sport. A sport based on problem-so
  - **Aditya Verma** - https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY
  - **Codealittle** - https://www.youtube.com/watch?v=-9FinR1AVys&list=PL1oKdRlSbldN8ffk23nuYQZwO0HSIPy9F 
 ---
+ ### Bit Manipulations
+ - **Codealittle** - https://www.youtube.com/watch?v=5upadP-hWXQ&list=PL1oKdRlSbldNz2p_xrBMf2GhCKRm-cH2A 
+ - **codencode** - https://www.youtube.com/watch?v=efL86JCONH0&list=PL2q4fbVm1Ik7ip1VkWwe5U_CEb93vw6Iu
+---
+ ### Graph Theory
+ - **CodeNcode** - https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh
+ - **Hitesh Tripathi** - https://www.youtube.com/watch?v=1BPQYzCYDx4&list=PLJOYB9TDUqmlnn9mu11qHxxQK_ioX9Wdm
+---
