@@ -9,15 +9,15 @@ According to us, competitive programming is a sport. A sport based on problem-so
 ## Platform to practice Competitive Programming
 
 - #### [HackerRank (Must for a Beginner)](https://www.hackerrank.com/)
-- #### CodeChef 
-- #### CodeForces
+- #### [CodeChef](https://www.codechef.com/)
+- #### [CodeForces](https://codeforces.com/)
+- #### [HackerEarth](https://www.hackerearth.com/)
+- #### [Project Euler](For Mathematics)(https://www.hackerrank.com/contests/projecteuler)
+- #### [GeeksForGeeks](https://www.geeksforgeeks.org/)
+- #### [LeetCode] (For Data-Structures and Algos)(https://leetcode.com/)
+- #### [AtCoder](https://atcoder.jp/)
 - #### HackerEarth
-- #### Project Euler(For Mathematics)
-- #### GeeksForGeeks
-- #### LeetCode (For Data-Structures and Algos)
-- #### AtCoder
-- #### HackerEarth
-- #### Sphere Online Judge(SPOJ)
+- #### [Sphere Online Judge(SPOJ)](https://atcoder.jp/)
 
 
 # Topics to be covered
