@@ -29,16 +29,16 @@ According to us, competitive programming is a sport. A sport based on problem-so
 
 ## STL Library (C++)
 - [ ] [Vectors (Dynamic Arrays)](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
-- [ ] Sets
+- [ ] [Sets](https://www.geeksforgeeks.org/set-in-cpp-stl/)
   - Set
   - Unordered Set
   - Multiset
-- [ ] Queue
-- [ ] Stack
-- [ ] Map
+- [ ] [Queue](https://www.geeksforgeeks.org/queue-cpp-stl/)
+- [ ] [Stack](https://www.geeksforgeeks.org/stack-in-cpp-stl/)
+- [ ] [Map](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)
   - Map
   - Unordered Map
   - Multimap
-- Pairs
-- Priority Queue (Min - Max Heaps)
-- Deque
+- [Pairs](https://www.geeksforgeeks.org/pair-in-cpp-stl/)
+- [Priority Queue (Min - Max Heaps)](https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/)
+- [Deque](https://www.geeksforgeeks.org/deque-cpp-stl/)
