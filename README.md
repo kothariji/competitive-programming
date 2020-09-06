@@ -40,3 +40,6 @@ According to us, competitive programming is a sport. A sport based on problem-so
   - Map
   - Unordered Map
   - Multimap
+- Pairs
+- Priority Queue (Min - Max Heaps)
+- Deque
