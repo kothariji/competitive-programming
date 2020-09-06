@@ -20,13 +20,13 @@ According to us, competitive programming is a sport. A sport based on problem-so
 
 
 ## Most Famous Programming Contests
- - Google KickStart
- - ACM ICPC (Olympics of Programming)
- - Google CodeJam
- - FaceBook Hacker Cup
- - TCS CodeVita
- - Google HashCode
- - CodeChef's SnackDown
+ - [Google KickStart](https://codingcompetitions.withgoogle.com/kickstart)
+ - [ACM ICPC (Olympics of Programming)](https://icpc.global/)
+ - [Google CodeJam](https://codingcompetitions.withgoogle.com/codejam)
+ - [FaceBook Hacker Cup](https://www.facebook.com/hackercup/contest)
+ - [TCS CodeVita](https://campuscommune.tcs.com/en-in/intro/contests/codevita-season-9)
+ - [Google HashCode](https://codingcompetitions.withgoogle.com/hashcode/)
+ - [CodeChef's SnackDown](https://www.codechef.com/snackdown)
 
 
 ## Books
@@ -39,9 +39,9 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - [Visual Alogorithms](https://visualgo.net/en)
 
 ## Code Visualisation
-- C++ Code Visualisation
-- JAVA Code Visualisation
-- PYTHON Code Visualisation
+- [C++ Code Visualisation](http://www.pythontutor.com/cpp.html)
+- [JAVA Code Visualisation](http://www.pythontutor.com/visualize.html)
+- [PYTHON Code Visualisation](http://www.pythontutor.com/visualize.html)
 
 ## Learning Resources (Topic Wise)
 
