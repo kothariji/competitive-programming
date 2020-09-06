@@ -19,13 +19,7 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - #### [Sphere Online Judge(SPOJ)](https://atcoder.jp/)
 
 
-# Topics to be covered
-
-## Big O Notations
-
- - **CS Dojo** - Introduction to Big O Notation and Time Complexity
- - **Simple Snippets** - Asymptotic Analysis of Algorithms with Example
- - **Big-O CheatSheet** https://www.bigocheatsheet.com/
+# Basics Of C++ Programing Language
 
 ## STL Library (C++)
 - [ ] [Vectors (Dynamic Arrays)](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
@@ -42,3 +36,22 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - [ ] [Pairs](https://www.geeksforgeeks.org/pair-in-cpp-stl/)
 - [ ] [Priority Queue (Min - Max Heaps)](https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/)
 - [ ] [Deque](https://www.geeksforgeeks.org/deque-cpp-stl/)
+
+
+## Learning Resources (Topic Wise)
+
+### Big O Notations
+
+ - **CS Dojo** - Introduction to Big O Notation and Time Complexity
+ - **Simple Snippets** - Asymptotic Analysis of Algorithms with Example
+ - **Big-O CheatSheet** https://www.bigocheatsheet.com/
+ 
+ ### STL in C++
+ - **Codealittle** - https://www.youtube.com/watch?v=PCahjLFtlbY&list=PL1oKdRlSbldPUXbtWctRz14C1f8R78MVZ
+ - **Takeyouforward** - https://www.youtube.com/watch?v=zBhVZzi5RdU&t=1s
+ 
+ ### Binary Search
+ - **Aditya Verma** https://www.youtube.com/watch?v=j7NodO9HIbk&list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2
+ 
+ ### Number Theory (Mathematics)
+ - **CodeNCode** - https://www.youtube.com/watch?v=eRkqvQtm4DU&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG
