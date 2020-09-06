@@ -19,23 +19,14 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - #### [Sphere Online Judge(SPOJ)](https://atcoder.jp/)
 
 
-# Basics Of C++ Programing Language
-
-## STL Library (C++)
-- [ ] [Vectors (Dynamic Arrays)](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
-- [ ] [Sets](https://www.geeksforgeeks.org/set-in-cpp-stl/)
-  - [Set](https://www.geeksforgeeks.org/set-in-cpp-stl/)
-  - [Unordered Set](https://www.geeksforgeeks.org/unordered_set-in-cpp-stl/)
-  - [Multiset](https://www.geeksforgeeks.org/multiset-in-cpp-stl/#:~:text=Multisets%20are%20a%20type%20of,elements%20can%20have%20same%20values.&text=List%20of%20functions%20of%20Multiset,first%20element%20in%20the%20multiset.)
-- [ ] [Queue](https://www.geeksforgeeks.org/queue-cpp-stl/)
-- [ ] [Stack](https://www.geeksforgeeks.org/stack-in-cpp-stl/)
-- [ ] [Map](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)
-  - [Map](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)
-  - [Unordered Map](https://www.geeksforgeeks.org/unordered_map-in-cpp-stl/#:~:text=unordered_map%20is%20an%20associated%20container,type%20predefined%20or%20user%2Ddefined.)
-  - [Multimap](https://www.geeksforgeeks.org/multimap-associative-containers-the-c-standard-template-library-stl/)
-- [ ] [Pairs](https://www.geeksforgeeks.org/pair-in-cpp-stl/)
-- [ ] [Priority Queue (Min - Max Heaps)](https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/)
-- [ ] [Deque](https://www.geeksforgeeks.org/deque-cpp-stl/)
+## Most Famous Programming Contests
+ - Google KickStart
+ - ACM ICPC (Olympics of Programming)
+ - Google CodeJam
+ - FaceBook Hacker Cup
+ - TCS CodeVita
+ - Google HashCode
+ - CodeChef's SnackDown
 
 
 ## Learning Resources (Topic Wise)
