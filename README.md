@@ -29,7 +29,7 @@ According to us, competitive programming is a sport. A sport based on problem-so
  - **Big-O CheatSheet** https://www.bigocheatsheet.com/
 
 ## STL Library (C++)
-- [ ] Vectors (Dynamic Arrays)
+- [ ] [Vectors (Dynamic Arrays)](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
 - [ ] Sets
   - Set
   - Unordered Set
