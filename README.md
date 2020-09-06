@@ -13,10 +13,10 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - #### [CodeForces](https://codeforces.com/)
 - #### [HackerEarth](https://www.hackerearth.com/)
 - #### [Project Euler(For Mathematics)](https://projecteuler.net/)
-- #### [GeeksForGeeks](https://www.geeksforgeeks.org/)
+- #### [GeeksForGeeks](https://practice.geeksforgeeks.org/)
 - #### [LeetCode (For Data-Structures and Algos)](https://leetcode.com/)
 - #### [AtCoder](https://atcoder.jp/)
-- #### [Sphere Online Judge(SPOJ)](https://atcoder.jp/)
+- #### [Sphere Online Judge(SPOJ)](https://www.spoj.com/)
 
 
 ## Most Famous Programming Contests
