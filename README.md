@@ -39,6 +39,6 @@ According to us, competitive programming is a sport. A sport based on problem-so
   - Map
   - Unordered Map
   - Multimap
-- [Pairs](https://www.geeksforgeeks.org/pair-in-cpp-stl/)
-- [Priority Queue (Min - Max Heaps)](https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/)
-- [Deque](https://www.geeksforgeeks.org/deque-cpp-stl/)
+- [ ] [Pairs](https://www.geeksforgeeks.org/pair-in-cpp-stl/)
+- [ ] [Priority Queue (Min - Max Heaps)](https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/)
+- [ ] [Deque](https://www.geeksforgeeks.org/deque-cpp-stl/)
