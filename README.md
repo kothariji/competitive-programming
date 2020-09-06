@@ -12,9 +12,9 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - #### [CodeChef](https://www.codechef.com/)
 - #### [CodeForces](https://codeforces.com/)
 - #### [HackerEarth](https://www.hackerearth.com/)
-- #### [Project Euler](For Mathematics)(https://www.hackerrank.com/contests/projecteuler)
+- #### [Project Euler(For Mathematics)](https://www.hackerrank.com/contests/projecteuler)
 - #### [GeeksForGeeks](https://www.geeksforgeeks.org/)
-- #### [LeetCode] (For Data-Structures and Algos)(https://leetcode.com/)
+- #### [LeetCode (For Data-Structures and Algos)](https://leetcode.com/)
 - #### [AtCoder](https://atcoder.jp/)
 - #### HackerEarth
 - #### [Sphere Online Judge(SPOJ)](https://atcoder.jp/)
