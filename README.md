@@ -1,4 +1,4 @@
-# Competitive Programming - DSC DYPCOE
+# Competitive Programming
 
 Hello Programmers💻,
 A one stop Destination for all your Competitive Programming Resources.
