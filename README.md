@@ -211,12 +211,13 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - Euler Tour 
 
 ---
-## Dynamic Programming Classical Problems 
+## Dynamic Programming 
 
 ### Playlists
 - **Tushar Roy** - https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
 - **GeeksforGeeks** - https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm
- 
+
+### Classical Problems 
 - Fibonacci Series
 - Longest Common Substring 
 - Longest Increasing Subsequence 
