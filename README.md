@@ -145,6 +145,10 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - Count Sort 
 ---
 ## Mathematics: 
+
+### Playlists
+ - **CodeNcode** - https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh
+ 
 ### Number Theory 
 - Prime Number Generation (Sieve, Segmented Sieve) 
 - Euler Totient Theorem 
@@ -171,6 +175,10 @@ According to us, competitive programming is a sport. A sport based on problem-so
 ### Game Theory - https://www.youtube.com/watch?v=_thN1Rp_FRA
 --- 
 ## Graphs: 
+
+### Playlists
+  - **CodeNCode** - https://www.youtube.com/watch?v=eRkqvQtm4DU&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG
+
 ### Graph Representation 
 - Adjacency Matrix 
 - Adjacency List 
@@ -204,6 +212,11 @@ According to us, competitive programming is a sport. A sport based on problem-so
 
 ---
 ## Dynamic Programming Classical Problems 
+
+### Playlists
+- **Tushar Roy** - https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
+- **GeeksforGeeks** - https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm
+ 
 - Fibonacci Series
 - Longest Common Substring 
 - Longest Increasing Subsequence 
