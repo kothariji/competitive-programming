@@ -98,10 +98,10 @@ According to us, competitive programming is a sport. A sport based on problem-so
 
 ## Platform to practice Competitive Programming
 
-- #### Beginners - [Practice @ GeeksForGeeks](https://practice.geeksforgeeks.org/)
-- #### Beginners - [HackerRank (Must do for a Beginner)](https://www.hackerrank.com/)
-- #### Beginners - [HackerEarth](https://www.hackerearth.com/)
-- #### Long Challenge and Short Contest - [CodeChef](https://www.codechef.com/)
-- #### Short Contest - [CodeForces](https://codeforces.com/)
-- #### Mathematics - [Project Euler](https://projecteuler.net/)
-- #### Data Structures and Algorithms - [LeetCode (For Data-Structures and Algos)](https://leetcode.com/)
+- **Beginners** - [Practice @ GeeksForGeeks](https://practice.geeksforgeeks.org/)
+- **Beginners** - [HackerRank (Must do for a Beginner)](https://www.hackerrank.com/)
+- **Beginners** - [HackerEarth](https://www.hackerearth.com/)
+- **Long Challenge and Short Contest** - [CodeChef](https://www.codechef.com/)
+- **Short Contest** - [CodeForces](https://codeforces.com/)
+- **Mathematics** - [Project Euler](https://projecteuler.net/)
+- **Data Structures and Algorithms** - [LeetCode (For Data-Structures and Algos)](https://leetcode.com/)
