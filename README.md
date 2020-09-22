@@ -20,6 +20,8 @@ According to us, competitive programming is a sport. A sport based on problem-so
 
 
 ## Most Famous Programming Contests
+
+ **Upcomming contests schedule** - https://clist.by/
  - [Google KickStart🏆](https://codingcompetitions.withgoogle.com/kickstart)
  - [ACM ICPC (Olympics of Programming)🏆](https://icpc.global/)
  - [Google CodeJam🏆](https://codingcompetitions.withgoogle.com/codejam)
@@ -27,6 +29,12 @@ According to us, competitive programming is a sport. A sport based on problem-so
  - [TCS CodeVita🏆](https://campuscommune.tcs.com/en-in/intro/contests/codevita-season-9)
  - [Google HashCode🏆](https://codingcompetitions.withgoogle.com/hashcode/)
  - [CodeChef's SnackDown🏆](https://www.codechef.com/snackdown)
+ - [Coding Block's CodeSule](https://hack.codingblocks.com/app/competitions/1)
+ - Codechef Long Challenge
+ - Codechef Cook-Off 
+ - Codechef Lunchtime
+ - Codeforces Rounds Div1 & Div2
+
 
 
 ## Books
