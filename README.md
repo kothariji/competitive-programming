@@ -106,7 +106,7 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - **Mathematics** - [Project Euler](https://projecteuler.net/)
 - **Data Structures and Algorithms** - [LeetCode (For Data-Structures and Algos)](https://leetcode.com/)
 ---
-# Important Data Structures: 
+## Important Data Structures: 
 - [Vectors (Dynamic Arrays)](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
 - [Strings](https://www.tutorialspoint.com/cplusplus/cpp_strings.htm)
 - [Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
@@ -119,7 +119,7 @@ According to us, competitive programming is a sport. A sport based on problem-so
   - [Set](https://www.geeksforgeeks.org/set-in-cpp-stl/)
   - [Unordered Set](https://www.geeksforgeeks.org/unordered_set-in-cpp-stl/)
   - [Multiset](http://www.cplusplus.com/reference/set/multiset/)
-- [Map](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)
+- Map
   - [Map](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)
   - [Unordered Map](https://www.geeksforgeeks.org/unordered_map-in-cpp-stl/#:~:text=unordered_map%20is%20an%20associated%20container,type%20predefined%20or%20user%2Ddefined.)
   - [Multimap](https://www.geeksforgeeks.org/multimap-associative-containers-the-c-standard-template-library-stl/)
@@ -128,67 +128,21 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - [Disjoint-Set Data Structures](https://www.youtube.com/watch?v=wU6udHRIkcc) 
 - [Trie](https://www.youtube.com/watch?v=AXjmTQ8LEoI&t=946s) 
 - [Segment Tree](https://www.youtube.com/watch?v=FR5d4V7Z9SE) 
- 
-Searching And Sorting: 
-1. Linear Search 
-2. BInary Search 
-3. Ternary Search 
-4. Selection Sort 
-5. Bubble Sort 
-6. Insertion Sort 
-7. Merge Sort 
-8. Quick Sort 
-9. Quick Select 
-10. Heap Sort 
-11. Radix Sort 
-12. Counting Sort 
-Greedy: 
-Classical Problems of Greedy & Concept 
-example : Fractional Knapsack 
-Dynamic Programming Classical Problems 
-1. Edit Distance 
-2. Egg Dropping Puzzle 
-3. Integer Knapsack 
-4. Largest Independent Set 
-5. Longest Biotonic Subsequence 
-6. Longest Common Subsequence 
-7. Longest Common Substring 
-8. Longest Increasing Subsequence 
-9. Longest Palindromic Subsequence 
-10. Longest Palindromic Substring 
-11. Longest Substring Without Repeating Character 
-12. Matrix Chain Multiplication 
-13. Max Size Square Submatrix With One 
-14. Maximum Length Chain
+---
 
-Pairs 
-15. Maximum Sum Increasing Subsequence 
-16. Optimal Binary Search Tree 
-17. Palindrome Partition Problem 
-18. Set Partition Problem 
-19. Subset Sum 
-20. Word Wrap Problem 
-Dynamic Programming Advanced Techniques 
-1. DP + Tree 
-2. DP + Bit Masking 
-3. DP + Binary Search 
-4. DP + Graph 
-5. DP + Matrix Exponentiation 
-6. DP + Probability Space 
-7. DP + Crack Recurrence 
-Divide & Conquer 
-Classical Problems & Concepts 
-1. Merge Sort 
-2. Closest Pair Points 
-Other Algorithm Design Techniques : 
-1. BackTracking 
-2. Man In Middle 
-3. Newton-Raphson to reach the fixed point 
-4. Brute Force 
-5. Constructive Algo 
-6. Sliding Window 
-7. Pancake Sorting
-
+## Searching  
+- Linear Search 
+- Binary Search 
+---
+## Sorting
+- Selection Sort 
+- Bubble Sort 
+- Insertion Sort 
+- Merge Sort 
+- Quick Sort 
+- Heap Sort 
+- Radix Sort 
+- Count Sort 
 ---
 ## Mathematics: 
 ### Number Theory 
@@ -247,3 +201,19 @@ Other Algorithm Design Techniques :
 - Bellman Ford 
 - Floyd Warshall’s Algorithm 
 - Euler Tour 
+
+---
+## Dynamic Programming Classical Problems 
+- Fibonacci Series
+- Longest Common Substring 
+- Longest Increasing Subsequence 
+- Longest Palindromic Substring 
+- Edit Distance 
+- Egg Dropping Puzzle 
+- Integer Knapsack 
+- Longest Common Subsequence 
+- Longest Substring Without Repeating Character 
+- Matrix Chain Multiplication 
+- Max Size Square Submatrix With One 
+- Maximum Length Chain
+
