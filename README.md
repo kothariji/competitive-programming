@@ -178,7 +178,6 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - Determinant , Rank and Inverse Of Matrix [ Gaussian Elimination , Gauss Jordan Elimination] 
 - Solving System Of Linear Equations 
 - Matrix Exponentiation To Solve Recurrences 
-
 ---
 ### Game Theory - https://www.youtube.com/watch?v=_thN1Rp_FRA
 --- 
