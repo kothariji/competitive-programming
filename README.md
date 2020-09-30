@@ -19,7 +19,7 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - #### [Sphere Online Judge(SPOJ)](https://www.spoj.com/)
 
 
-## Most Famous Programming Contests
+## Most Famous Programming Contests :crown: :crown:
 
  **Upcomming contests schedule** - https://clist.by/
  - [Google KickStart🏆](https://codingcompetitions.withgoogle.com/kickstart)
@@ -29,11 +29,11 @@ According to us, competitive programming is a sport. A sport based on problem-so
  - [TCS CodeVita🏆](https://campuscommune.tcs.com/en-in/intro/contests/codevita-season-9)
  - [Google HashCode🏆](https://codingcompetitions.withgoogle.com/hashcode/)
  - [CodeChef's SnackDown🏆](https://www.codechef.com/snackdown)
- - [Coding Block's CodeSule](https://hack.codingblocks.com/app/competitions/1)
- - Codechef Long Challenge
- - Codechef Cook-Off 
- - Codechef Lunchtime
- - Codeforces Rounds Div1 & Div2
+ - [Coding Block's CodeSule🏆](https://hack.codingblocks.com/app/competitions/1)
+ - Codechef Long Challenge🏆
+ - Codechef Cook-Off 🏆
+ - Codechef Lunchtime🏆
+ - Codeforces Rounds Div1 & Div2 🏆
 
 
 
@@ -51,7 +51,7 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - [JAVA Code Visualisation](http://www.pythontutor.com/visualize.html)
 - [PYTHON Code Visualisation](http://www.pythontutor.com/visualize.html)
 
-## Learning Resources (Topic Wise)
+## Learning Resources (Topic Wise) :checkered_flag::checkered_flag::checkered_flag:
 
 ### Big O Notations
 
