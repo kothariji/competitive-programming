@@ -6,7 +6,7 @@ A one stop Destination for all your Competitive Programming Resources.
 ## :pushpin::pushpin: What is Competitive Programming? :pushpin::pushpin:
 According to us, competitive programming is a sport. A sport based on problem-solving skills, thinking ability, speed testing, regularity and to be precise. Competitive Programming will help you build logic and implement that logic to find solutions to a real-world problem. Brainstorming upon your code will definitely increase your coding skills as well as it will help to expand your thinking capacity. Thus practising Competitive Programming on day to day basis helps you in mastering that particular language. And believe us, if you are playing this sport regularly, you are already prepared for the technical rounds of the Interviews. So now let's dive in the ocean of **Competitive Programming.**
 
-## Platform to practice Competitive Programming
+## Platform to practice Competitive Programming :telescope::telescope:
 
 - #### [HackerRank (Must do for a Beginner)](https://www.hackerrank.com/)
 - #### [CodeChef](https://www.codechef.com/)
