@@ -1,3 +1,8 @@
+<p align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+        <img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/Logo.svg" width="30%">
+    </a>
+</p>
 # HacktoberFest 2020 :fire:
 - HacktoberFest is back again. Showcase your coding skills by creating PRs and contributing to the Open Source.
 
