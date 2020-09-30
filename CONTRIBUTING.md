@@ -18,7 +18,7 @@
 - **Step 3** - Resolve this bugs, mentions provided in the Issues section of the repository. *Also add a description what changes you ahve done*.
 - **Step 4** - Add the changes to your repository.
 - **Step 5** - Create a PULL Request. And that's all.
-
+- **NOTE** - Please start the filename with platform name on which theproblem was solved. For eg if you are submitting graph problem from codechef then mention filename as **(CODECHEF) chefandgraph.cpp**.
 
 ### What you can contribute in this repo? :punch:
 - You can add your own competitve programming solutions. 
