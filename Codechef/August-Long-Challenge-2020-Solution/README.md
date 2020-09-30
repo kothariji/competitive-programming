@@ -1,7 +1,9 @@
-## August-Long-Challenge-2020-Solution
+
 # This repository contains solution of the August Long Challenge 2020.
 
-Solutions will be pusheed when the live contest is over!
+https://www.codechef.com/AUG20B
+
+
 Questions solved:
 
          1. CHEFWARS
