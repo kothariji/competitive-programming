@@ -17,6 +17,8 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - #### [LeetCode (For Data-Structures and Algos)](https://leetcode.com/)
 - #### [AtCoder](https://atcoder.jp/)
 - #### [Sphere Online Judge(SPOJ)](https://www.spoj.com/)
+- #### [CSES](https://cses.fi/problemset/)
+- #### [binarysearch](https://www.binarysearch.com/)
 
 
 ## Most Famous Programming Contests :crown: :crown:
@@ -231,7 +233,8 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - Longest Palindromic Substring 
 - Edit Distance 
 - Egg Dropping Puzzle 
-- Integer Knapsack 
+- 0-1 Knapsack
+- Unbounded Knapsack
 - Longest Common Subsequence 
 - Longest Substring Without Repeating Character 
 - Matrix Chain Multiplication 
