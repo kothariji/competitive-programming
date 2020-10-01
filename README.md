@@ -17,6 +17,8 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - #### [LeetCode (For Data-Structures and Algos)](https://leetcode.com/)
 - #### [AtCoder](https://atcoder.jp/)
 - #### [Sphere Online Judge(SPOJ)](https://www.spoj.com/)
+- #### [TopCoder](https://www.topcoder.com/community/competitive-programming/)
+- #### [CodeJam](https://codingcompetitions.withgoogle.com/codejam)
 
 
 ## Most Famous Programming Contests :crown: :crown:
@@ -237,3 +239,8 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - Matrix Chain Multiplication 
 - Max Size Square Submatrix With One 
 - Maximum Length Chain
+
+### Doubts and queries
+- https://stackoverflow.com/
+
+
