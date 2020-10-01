@@ -1,0 +1,17 @@
+#include <iostream>
+#include<string.h>
+using namespace std;
+
+int main() 
+{
+    int t;
+    cin>>t;
+    char n[10];
+    while(t--)
+    {
+        cin>>n;
+        cout<<(n[0]-'0' + n[strlen(n)-1] - '0')<<"\n";
+    }
+  
+	return 0;
+}
