@@ -7,7 +7,7 @@
 </p>
 
 
-- HacktoberFest is back again. Showcase your coding skills by creating PRs and contributing to the Open Source.
+>- HacktoberFest is back again. Showcase your coding skills by creating PRs and contributing to the Open Source.
 
 #### [hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
 
