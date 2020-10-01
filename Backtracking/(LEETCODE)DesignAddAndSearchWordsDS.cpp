@@ -18,8 +18,7 @@ public:
         }
         curr->isEndOfWord =true;
     }
-    
-    
+
     /** Returns if the word is in the data structure. A word could contain the dot character '.' to represent any one letter. */
     bool search(string word) {
          WordDictionary *curr  = this;
