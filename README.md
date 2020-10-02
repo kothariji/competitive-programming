@@ -1,4 +1,4 @@
-# Competitive Programming  :high_brightness::high_brightness:
+# Competitive Programming :high_brightness::high_brightness:
 
 Hello Programmers💻,
 A one stop Destination for all your Competitive Programming Resources.
@@ -17,8 +17,10 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - #### [LeetCode (For Data-Structures and Algos)](https://leetcode.com/)
 - #### [AtCoder](https://atcoder.jp/)
 - #### [Sphere Online Judge(SPOJ)](https://www.spoj.com/)
+- #### [Leetcode (for monthly challenges)](https://www.leetcode.com/)
 - #### [CSES](https://cses.fi/problemset/)
 - #### [binarysearch](https://www.binarysearch.com/)
+
 
 
 ## Most Famous Programming Contests :crown: :crown:
@@ -39,16 +41,16 @@ According to us, competitive programming is a sport. A sport based on problem-so
 
 
 
-## Books
+## Books  :high_brightness::high_brightness:
 - [Competitive Programming 3📚](https://cpbook.net/)
 - [Data Structures and Algorithms Made Easy📚](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X) - by Narasimha Karumanchi
 - [Cracking the Coding Interview📚](http://www.crackingthecodinginterview.com/) - by Gayle Laakmann McDowell
 
-## Algorithms
+## Algorithms  :high_brightness::high_brightness:
 - [CP Algorithms](https://cp-algorithms.com/)
 - [Visual Alogorithms](https://visualgo.net/en)
 
-## Code Visualisation
+## Code Visualisation  :high_brightness::high_brightness:
 - [C++ Code Visualisation](http://www.pythontutor.com/cpp.html)
 - [JAVA Code Visualisation](http://www.pythontutor.com/visualize.html)
 - [PYTHON Code Visualisation](http://www.pythontutor.com/visualize.html)
