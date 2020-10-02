@@ -230,7 +230,8 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - Job Sequencing(GFG)
 - Maximum Circles(HackerBlocks)
 - Codeforces Subsequences(Codeforces)
-- Good Strings(codeforces)
+- Good Strings(Codeforces)
+- Palindromic Paths(Codeforces)
 ## Graphs: 
 
 ### Playlists
