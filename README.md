@@ -37,7 +37,7 @@ According to us, competitive programming is a sport. A sport based on problem-so
  - Codechef Long Challenge🏆
  - Codechef Cook-Off 🏆
  - Codechef Lunchtime🏆
- - Codeforces Rounds Div1 & Div2 🏆
+ - Codeforces Rounds Div1 & Div2 & Div3 & Educational Codeforces Round🏆
 
 
 
@@ -45,6 +45,7 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - [Competitive Programming 3📚](https://cpbook.net/)
 - [Data Structures and Algorithms Made Easy📚](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X) - by Narasimha Karumanchi
 - [Cracking the Coding Interview📚](http://www.crackingthecodinginterview.com/) - by Gayle Laakmann McDowell
+- [CP Handbook By Antti Laaksonen](https://github.com/pllk/cphb/blob/master/book.pdf)
 
 ## Algorithms  :high_brightness::high_brightness:
 - [CP Algorithms](https://cp-algorithms.com/)
@@ -66,7 +67,10 @@ According to us, competitive programming is a sport. A sport based on problem-so
  ### STL in C++
  - **Codealittle** - https://www.youtube.com/watch?v=PCahjLFtlbY&list=PL1oKdRlSbldPUXbtWctRz14C1f8R78MVZ
  - **Takeyouforward** - https://www.youtube.com/watch?v=zBhVZzi5RdU&t=1s
+ - **CppNuts** - https://www.youtube.com/watch?v=LyGlTmaWEPs&list=PLk6CEY9XxSIA-xo3HRYC3M0Aitzdut7AA
  
+ 
+ -  [ ] STL SUMMARY https://codeforces.com/blog/entry/6058
  - [ ] [Vectors (Dynamic Arrays)](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
 - [ ] [Sets](https://www.geeksforgeeks.org/set-in-cpp-stl/)
   - [Set](https://www.geeksforgeeks.org/set-in-cpp-stl/)
@@ -84,6 +88,22 @@ According to us, competitive programming is a sport. A sport based on problem-so
 ---
  ### Binary Search
  - **Aditya Verma** https://www.youtube.com/watch?v=j7NodO9HIbk&list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2
+ 
+ **Problems**
+- Allocate Minimum No of pages(GFG)
+- Aggressive Cows(SPOJ)
+- Prata(SPOJ)
+- Painters Partion(GFG)
+- EKO(SPOJ)
+- Square Root using BS (GFG)
+- Floor And Ceil in a Sorted Array(GFG)
+- First And Last occurence of an element(GFG)
+- Count of element in a sorted array(GFG)
+- Search in a rotated Sorted Array(leetcode)
+- Logs(Atcoder)
+- Search in A 2D Matrix (Leetcode)
+- First bad version(Leetcode)
+- Heaters(Leetcode)
 ---
  ### Number Theory (Mathematics)
  - **CodeNCode** - https://www.youtube.com/watch?v=eRkqvQtm4DU&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG
@@ -140,11 +160,13 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - [Disjoint-Set Data Structures](https://www.youtube.com/watch?v=wU6udHRIkcc) 
 - [Trie](https://www.youtube.com/watch?v=AXjmTQ8LEoI&t=946s) 
 - [Segment Tree](https://www.youtube.com/watch?v=FR5d4V7Z9SE) 
+- [Policy based Data Structures] (https://codeforces.com/blog/entry/11080)
 ---
 
 ## Searching  
 - Linear Search 
-- Binary Search 
+- Binary Search
+- Ternary Search
 ---
 ## Sorting
 - Selection Sort 
@@ -166,7 +188,11 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - Euler Totient Theorem 
 - Fermat’s Theorem 
 - HCF & LCM (Euclid) 
+- Extended Euclid Algorithm
+- Fibonacci
+- Chinese Remainder Theorem 
 - Linear Diophantine Equations (Extended Euclid) 
+- Binary Exponentiation
 - Modulus Arithmetic (addition,multiplication,subtraction,modular Inverse) 
 
 ### Probability 
@@ -185,6 +211,30 @@ According to us, competitive programming is a sport. A sport based on problem-so
 ---
 ### Game Theory - https://www.youtube.com/watch?v=_thN1Rp_FRA
 --- 
+### Greedy
+**Problems**
+- BUSYMAN(SPOJ)
+- BIASED STANDINGS(SPOJ)
+- BAlife(SPOJ)
+- Defense of a kingdom (SPOJ)
+- Chopsticks(Codechef)
+- EXPEDI(SPOJ)
+- Fractional Knaspsack(GFG)
+- DIE HARD(SPOJ)
+- GREGOVIA(SPOJ)
+- SOLDIER(SPOJ)
+- CHOCOLA(SPOJ)
+- CMIYC(SPOJ)
+- Station Balance(UVA)
+- Huffman CodIng(GFG)
+- Maximun Unique Segments(Codechef)
+- Egyptian Fraction(GFG)
+- Job Sequencing(GFG)
+- Maximum Circles(HackerBlocks)
+- Codeforces Subsequences(Codeforces)
+- Good Strings(Codeforces)
+- Palindromic Paths(Codeforces)
+- Gas Pipeline(Codeforces)
 ## Graphs: 
 
 ### Playlists
@@ -221,6 +271,7 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - Floyd Warshall’s Algorithm 
 - Euler Tour 
 
+
 ---
 ## Dynamic Programming 
 
@@ -237,13 +288,17 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - Egg Dropping Puzzle 
 - 0-1 Knapsack
 - Unbounded Knapsack
+- Subset Sum
+- Coin Change Combinations 
+- Coin Change Permutation 
 - Longest Common Subsequence 
 - Longest Substring Without Repeating Character 
 - Matrix Chain Multiplication 
 - Max Size Square Submatrix With One 
 - Maximum Length Chain
+- Catalan Number And its Apllications
+
 
 ### Doubts and queries
 - https://stackoverflow.com/
-
 
