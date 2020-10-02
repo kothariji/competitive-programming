@@ -37,7 +37,7 @@ According to us, competitive programming is a sport. A sport based on problem-so
  - Codechef Long Challenge🏆
  - Codechef Cook-Off 🏆
  - Codechef Lunchtime🏆
- - Codeforces Rounds Div1 & Div2 🏆
+ - Codeforces Rounds Div1 & Div2 & Div3 & Educational Codeforces Round🏆
 
 
 
@@ -45,6 +45,7 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - [Competitive Programming 3📚](https://cpbook.net/)
 - [Data Structures and Algorithms Made Easy📚](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X) - by Narasimha Karumanchi
 - [Cracking the Coding Interview📚](http://www.crackingthecodinginterview.com/) - by Gayle Laakmann McDowell
+- [CP Handbook By Antti Laaksonen](https://github.com/pllk/cphb/blob/master/book.pdf)
 
 ## Algorithms  :high_brightness::high_brightness:
 - [CP Algorithms](https://cp-algorithms.com/)
@@ -66,7 +67,10 @@ According to us, competitive programming is a sport. A sport based on problem-so
  ### STL in C++
  - **Codealittle** - https://www.youtube.com/watch?v=PCahjLFtlbY&list=PL1oKdRlSbldPUXbtWctRz14C1f8R78MVZ
  - **Takeyouforward** - https://www.youtube.com/watch?v=zBhVZzi5RdU&t=1s
+ - **CppNuts** - https://www.youtube.com/watch?v=LyGlTmaWEPs&list=PLk6CEY9XxSIA-xo3HRYC3M0Aitzdut7AA
  
+ 
+ -  [ ] STL SUMMARY https://codeforces.com/blog/entry/6058
  - [ ] [Vectors (Dynamic Arrays)](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
 - [ ] [Sets](https://www.geeksforgeeks.org/set-in-cpp-stl/)
   - [Set](https://www.geeksforgeeks.org/set-in-cpp-stl/)
@@ -140,11 +144,13 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - [Disjoint-Set Data Structures](https://www.youtube.com/watch?v=wU6udHRIkcc) 
 - [Trie](https://www.youtube.com/watch?v=AXjmTQ8LEoI&t=946s) 
 - [Segment Tree](https://www.youtube.com/watch?v=FR5d4V7Z9SE) 
+- [Policy based Data Structures] (https://codeforces.com/blog/entry/11080)
 ---
 
 ## Searching  
 - Linear Search 
-- Binary Search 
+- Binary Search
+- Ternary Search
 ---
 ## Sorting
 - Selection Sort 
@@ -166,7 +172,11 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - Euler Totient Theorem 
 - Fermat’s Theorem 
 - HCF & LCM (Euclid) 
+- Extended Euclid Algorithm
+- Fibonacci
+- Chinese Remainder Theorem 
 - Linear Diophantine Equations (Extended Euclid) 
+- Binary Exponentiation
 - Modulus Arithmetic (addition,multiplication,subtraction,modular Inverse) 
 
 ### Probability 
