@@ -232,6 +232,7 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - Codeforces Subsequences(Codeforces)
 - Good Strings(Codeforces)
 - Palindromic Paths(Codeforces)
+- Gas Pipeline(Codeforces)
 ## Graphs: 
 
 ### Playlists
