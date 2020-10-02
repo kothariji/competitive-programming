@@ -88,6 +88,22 @@ According to us, competitive programming is a sport. A sport based on problem-so
 ---
  ### Binary Search
  - **Aditya Verma** https://www.youtube.com/watch?v=j7NodO9HIbk&list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2
+ 
+ **Problems**
+- Allocate Minimum No of pages(GFG)
+- Aggressive Cows(SPOJ)
+- Prata(SPOJ)
+- Painters Partion(GFG)
+- EKO(SPOJ)
+- Square Root using BS (GFG)
+- Floor And Ceil in a Sorted Array(GFG)
+- First And Last occurence of an element(GFG)
+- Count of element in a sorted array(GFG)
+- Search in a rotated Sorted Array(leetcode)
+- Logs(Atcoder)
+- Search in A 2D Matrix (Leetcode)
+- First bad version(Leetcode)
+- Heaters(Leetcode)
 ---
  ### Number Theory (Mathematics)
  - **CodeNCode** - https://www.youtube.com/watch?v=eRkqvQtm4DU&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG
@@ -231,6 +247,7 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - Floyd Warshall’s Algorithm 
 - Euler Tour 
 
+
 ---
 ## Dynamic Programming 
 
@@ -247,8 +264,12 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - Egg Dropping Puzzle 
 - 0-1 Knapsack
 - Unbounded Knapsack
+- Subset Sum
+- Coin Change Combinations 
+- Coin Change Permutation 
 - Longest Common Subsequence 
 - Longest Substring Without Repeating Character 
 - Matrix Chain Multiplication 
 - Max Size Square Submatrix With One 
 - Maximum Length Chain
+- Catalan Number And its Apllications
