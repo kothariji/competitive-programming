@@ -209,6 +209,28 @@ According to us, competitive programming is a sport. A sport based on problem-so
 ---
 ### Game Theory - https://www.youtube.com/watch?v=_thN1Rp_FRA
 --- 
+### Greedy
+**Problems**
+- BUSYMAN(SPOJ)
+- BIASED STANDINGS(SPOJ)
+- BAlife(SPOJ)
+- Defense of a kingdom (SPOJ)
+- Chopsticks(Codechef)
+- EXPEDI(SPOJ)
+- Fractional Knaspsack(GFG)
+- DIE HARD(SPOJ)
+- GREGOVIA(SPOJ)
+- SOLDIER(SPOJ)
+- CHOCOLA(SPOJ)
+- CMIYC(SPOJ)
+- Station Balance(UVA)
+- Huffman CodIng(GFG)
+- Maximun Unique Segments(Codechef)
+- Egyptian Fraction(GFG)
+- Job Sequencing(GFG)
+- Maximum Circles(HackerBlocks)
+- Codeforces Subsequences(Codeforces)
+- Good Strings(codeforces)
 ## Graphs: 
 
 ### Playlists
