@@ -16,6 +16,7 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - #### [GeeksForGeeks](https://practice.geeksforgeeks.org/)
 - #### [LeetCode (For Data-Structures and Algos)](https://leetcode.com/)
 - #### [AtCoder](https://atcoder.jp/)
+- #### [interviewBit] (https://www.interviewbit.com/
 - #### [Sphere Online Judge(SPOJ)](https://www.spoj.com/)
 - #### [TopCoder](https://www.topcoder.com/community/competitive-programming/)
 - #### [Leetcode (for monthly challenges)](https://www.leetcode.com/)
@@ -176,7 +177,8 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - Quick Sort 
 - Heap Sort 
 - Radix Sort 
-- Count Sort 
+- Count Sort
+- bucket sort
 ---
 ## Mathematics: 
 
@@ -278,6 +280,7 @@ According to us, competitive programming is a sport. A sport based on problem-so
 ### Playlists
 - **Tushar Roy** - https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
 - **GeeksforGeeks** - https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm
+- **Aditiya verma**-  https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go
 
 ### Classical Problems 
 - Fibonacci Series
