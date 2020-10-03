@@ -1,0 +1,29 @@
+Find minimum time to finish all jobs with given constraints
+
+Given an array of jobs with different time requirements. There are K identical assignees available and we are also given how much time an assignee takes to do one unit of the job. Find the minimum time to finish all jobs with following constraints.
+
+An assignee can be assigned only contiguous jobs. For example, an assignee cannot be assigned jobs 1 and 3, but not 2.
+Two assignees cannot share (or co-assigned) a job, i.e., a job cannot be partially assigned to one assignee and partially to other.
+Input :
+
+K:     Number of assignees available.
+T:     Time taken by an assignee to finish one unit 
+       of job
+job[]: An array that represents time requirements of 
+       different jobs.
+Examples :
+
+Input:  k = 2, T = 5, job[] = {4, 5, 10}
+Output: 50
+The minimum time required to finish all the jobs is 50.
+There are 2 assignees available. We get this time by 
+assigning {4, 5} to first assignee and {10} to second 
+assignee.
+
+Input:  k = 4, T = 5, job[] = {10, 7, 8, 12, 6, 8}
+Output: 75
+We get this time by assigning {10} {7, 8} {12} and {6, 8}
+We strongly recommend you to minimize your browser and try this yourself first.
+The idea is to use Binary Search. Think if we have a function (say isPossible()) that tells us if it’s possible to finish all jobs within a given time and number of available assignees. We can solve this problem by doing a binary search for the answer. If the middle point of binary search is not possible, then search in second half, else search in first half. Lower bound for Binary Search for minimum time can be set as 0. The upper bound can be obtained by adding all given job times.
+
+Now how to implement isPossible()? This function can be implemented using Greedy Approach. Since we want to know if it is possible to finish all jobs within a given time, we traverse through all jobs and keep assigning jobs to current assignee one by one while a job can be assigned within the given time limit. When time taken by current assignee exceeds the given time, create a new assignee and start assigning jobs to it. If the number of assignees becomes more than k, then return false, else return true.
