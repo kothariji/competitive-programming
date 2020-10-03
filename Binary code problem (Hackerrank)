@@ -19,6 +19,7 @@ First line of the output should contain a single integer L, the number of string
 
 Sample Input
 0010
+
 Sample Output 0
 6
 0010
@@ -27,6 +28,42 @@ Sample Output 0
 1100
 0100
 0000
-Explanation
-This will get a partial score factor of {6\over 2^4} = {6\over 16} = 0.375, out of allocated score for this test case.
-That is, if 10 points were allocated for this test case then you will only get 3.75 points.*/
+*/
+
+//Solution.
+
+#include <iostream>
+#include <algorithm>
+#include <vector>
+#include <string>
+#include <sstream>
+#include <map>
+#include <set>
+#include <cmath>
+#include <cstring>
+#include <cstdio>
+
+using namespace std;
+
+string s;
+
+void change(int n) {
+    if (n >= s.size()) {
+        cout << s << endl;
+        return;
+    }
+
+    change(n + 1);
+    s[n] = s[n] == '0' ? '1' : '0';
+    change(n + 1);
+}
+
+int main() {
+    cin >> s;
+
+    cout << (1 << s.size()) << endl;
+
+    change(0);
+
+    return 0;
+}
