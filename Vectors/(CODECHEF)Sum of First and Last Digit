@@ -1,17 +1,18 @@
 #include <iostream>
-#include<string.h>
+#include <vector> 
 using namespace std;
 
 int main() 
 {
-    int t;
+    int t,n,sum;
     cin>>t;
-    char n[10];
+    vector<int>v;
     while(t--)
     {
         cin>>n;
-        cout<<(n[0]-'0' + n[strlen(n)-1] - '0')<<"\n";
+        v.push_back(n);
     }
-  
+    sum=v.back()+v[0];
+    cout << sum << endl;
 	return 0;
 }
