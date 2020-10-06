@@ -32,3 +32,18 @@ int main() {
 	}
 	return 0;
 }
+
+
+
+
+
+
+__________________________________________________________In Python____________________________________________________________
+
+# initializing list
+test_list = [2, 1, 6, 7, 10]
+
+print("The original list is : " + str(test_list))
+# printing result
+
+print("The Largest : " , max(test_list))
