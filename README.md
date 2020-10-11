@@ -16,7 +16,7 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - #### [GeeksForGeeks](https://practice.geeksforgeeks.org/)
 - #### [LeetCode (For Data-Structures and Algos)](https://leetcode.com/)
 - #### [AtCoder](https://atcoder.jp/)
-- #### [interviewBit] (https://www.interviewbit.com/)
+- #### [interviewBit](https://www.interviewbit.com/)
 - #### [Sphere Online Judge(SPOJ)](https://www.spoj.com/)
 - #### [TopCoder](https://www.topcoder.com/community/competitive-programming/)
 - #### [Leetcode (for monthly challenges)](https://www.leetcode.com/)
