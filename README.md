@@ -1,10 +1,10 @@
 # Competitive Programming :high_brightness::high_brightness:
 
 Hello Programmers💻,
-A one stop Destination for all your Competitive Programming Resources.
+A one-stop destination for all your Competitive Programming Resources.
 
 ## :pushpin::pushpin: What is Competitive Programming? :pushpin::pushpin:
-According to us, competitive programming is a sport. A sport based on problem-solving skills, thinking ability, speed testing, regularity and to be precise. Competitive Programming will help you build logic and implement that logic to find solutions to a real-world problem. Brainstorming upon your code will definitely increase your coding skills as well as it will help to expand your thinking capacity. Thus practising Competitive Programming on day to day basis helps you in mastering that particular language. And believe us, if you are playing this sport regularly, you are already prepared for the technical rounds of the Interviews. So now let's dive in the ocean of **Competitive Programming.**
+According to my, competitive programming is a sport. A sport based on problem-solving skills, thinking ability, speed testing, regularity and to be precise. Competitive Programming will help you build logic and implement that logic to find solutions to a real-world problem. Brainstorming upon your code will increase your coding skills as well as it will help to expand your thinking capacity. Thus practicing Competitive Programming on day to day basis helps you in mastering that particular language. And believe us, if you are playing this sport regularly, you are already prepared for the technical rounds of the Interviews. So now let's dive into the ocean of **Competitive Programming.**
 
 ## Platform to practice Competitive Programming :telescope::telescope:
 
@@ -24,11 +24,11 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - #### [binarysearch](https://www.binarysearch.com/)
 
 
-## BENEFITS OF COMPETETOVE PROGRAMMING
+## BENEFITS OF COMPETITIVE PROGRAMMING
 
 The skills needed for competitive programming have long-lasting benefits to your career as a developer. There are numerous benefits to participating in competitive programming, including:
 
-Getting hired: Participating in competitive programming can make you a desirable candidate for companies. When you participate in large competitions like the ACM International Collegiate Programming Contest, you have a good chance of being on the radar of companies like Apple, Facebook, IBM, Google, and more. Tech companies track competitions and events to find potential employees. Large competitive programming events are extremely prestigious and difficult to succeed in, so if you do well, that is an indicator of your technical talent and abilities. That’s why many companies have actually sponsored programming competitions.
+Getting hired: Participating in competitive programming can make you a desirable candidate for companies. When you participate in large competitions like the ACM International Collegiate Programming Contest, you have a good chance of being on the radar of companies like Apple, Facebook, IBM, Google, and more. Tech companies track competitions and events to find potential employees. Large competitive programming events are extremely prestigious and difficult to succeed in, so if you do well, that is an indicator of your technical talent and abilities. That’s why many companies have sponsored programming competitions.
 
 Teamwork skills: When you participate in these competitions, you will often work in teams, meaning that you learn how to interact with teammates during high-pressure moments. This is an incredibly important skill. When you are working as a software engineer, you will almost always work with other individuals, meaning that companies care a lot about your communication and team skills. Also, most teams will have a leader. If you are the leader of the team, this demonstrates management skills, making you even more of a desirable candidate. Companies want to know that you can work effectively and comfortably with your teammates.
 
@@ -218,7 +218,7 @@ Interview prep: When you are trying to get an engineering job, companies will te
 ### Linear Algebra 
 - Multiplication ( Strassen's algorithm ), Logarithmic exponentiation 
 - Matrix Transformations [ Transpose, Rotation Of Matrix, Representing Linear Transformations Using Matrix ] 
-- Determinant , Rank and Inverse Of Matrix [ Gaussian Elimination , Gauss Jordan Elimination] 
+- Determinant, Rank and Inverse Of Matrix [ Gaussian Elimination, Gauss Jordan Elimination] 
 - Solving System Of Linear Equations 
 - Matrix Exponentiation To Solve Recurrences 
 ---
@@ -226,13 +226,13 @@ Interview prep: When you are trying to get an engineering job, companies will te
 --- 
 ### Greedy
 **Problems**
-- BUSYMAN(SPOJ)
+- BUSY MAN(SPOJ)
 - BIASED STANDINGS(SPOJ)
-- BAlife(SPOJ)
+- life(SPOJ)
 - Defense of a kingdom (SPOJ)
 - Chopsticks(Codechef)
 - EXPEDI(SPOJ)
-- Fractional Knaspsack(GFG)
+- Fractional Knapsack(GFG)
 - DIE HARD(SPOJ)
 - GREGOVIA(SPOJ)
 - SOLDIER(SPOJ)
@@ -280,7 +280,7 @@ Interview prep: When you are trying to get an engineering job, companies will te
 - Prim’s Algorithm 
 - Kruskal Algorithm 
 - Dijkstra 
-- Bellman Ford 
+- Bellman-Ford 
 - Floyd Warshall’s Algorithm 
 - Euler Tour 
 
@@ -310,7 +310,7 @@ Interview prep: When you are trying to get an engineering job, companies will te
 - Matrix Chain Multiplication 
 - Max Size Square Submatrix With One 
 - Maximum Length Chain
-- Catalan Number And its Apllications
+- Catalan Number And its Applications
 
 
 ### Doubts and queries
