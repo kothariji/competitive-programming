@@ -24,6 +24,157 @@ According to us, competitive programming is a sport. A sport based on problem-so
 - #### [binarysearch](https://www.binarysearch.com/)
 
 
+##BENEFITS OF COMPETETOVE PROGRAMMING
+
+The skills needed for competitive programming have long-lasting benefits to your career as a developer. There are numerous benefits to participating in competitive programming, including:
+
+Getting hired: Participating in competitive programming can make you a desirable candidate for companies. When you participate in large competitions like the ACM International Collegiate Programming Contest, you have a good chance of being on the radar of companies like Apple, Facebook, IBM, Google, and more. Tech companies track competitions and events to find potential employees. Large competitive programming events are extremely prestigious and difficult to succeed in, so if you do well, that is an indicator of your technical talent and abilities. That’s why many companies have actually sponsored programming competitions.
+
+Teamwork skills: When you participate in these competitions, you will often work in teams, meaning that you learn how to interact with teammates during high-pressure moments. This is an incredibly important skill. When you are working as a software engineer, you will almost always work with other individuals, meaning that companies care a lot about your communication and team skills. Also, most teams will have a leader. If you are the leader of the team, this demonstrates management skills, making you even more of a desirable candidate. Companies want to know that you can work effectively and comfortably with your teammates.
+
+Interview prep: When you are trying to get an engineering job, companies will test you for your knowledge of data structures and algorithms. When you participate in competitive programming, you work to develop an advanced understanding of these concepts. Furthermore, the environment for the coding interview and competitive programming is quite similar. They are both high-pressure environments, in which you have to engage in problem-solving. While many others may not be able to adjust to this environment, your competition experience gives you an advantage.
+
+Makes you faster and more focused: When you train and participate in programming competitions, you become more disciplined, faster, and more efficient. In this environment, you solve problems and code with a tight deadline. This teaches you how to focus on a task and efficiently execute.
+
+Though competitive programming helps you get a job, Yash wanted to make it clear that you should not start competitive programming solely for the purpose of getting a job:
+
+"This is something I’ve stressed about in the course as well. You can get a job by taking an interview preparation course and practicing a limited set of topics. You don't showcase your competitive programming talent anywhere for a decent job. This is a sport and should be treated like one. You do it because you enjoy the time you put into it and get something to show for it. Competitive programming will definitely help you with your job interviews, but you don't have to do CP to prepare for those.
+
+
+How does competitive programming work?
+Prerequisites
+Programming languages. Before getting started with competitive programming, you want to have a good knowledge of a programming language and basic data structures. C++ is the most used language in competitive programming due to its speed, resources, and memory control. Other popular languages include C or Java. Still, you aren’t limited to these languages and can choose as you please for the most part.
+
+Data Structures and Algorithms. After choosing your languages of choice, you need to review the fundamentals of data structures and algorithms. Understanding data structures and algorithms are the heart of competitive programming, as they are the way to solve the problems you are given. You should understanding concepts like arrays, linked lists, queues, trees, tries, graphs, sorting algorithms, recursion, and dynamic programming.
+
+Applications and Time Complexity. Beyond just knowing the concepts, you need to know what, when, and where to apply them. This means knowing which data structure should be used for a certain problem for the most optimal solution. You'll need to understand the concepts of time and space complexity, like Big O Notation. This is key when being a competitive programmer because much of your placing revolves around how quickly you can solve the problem.
+
+Practice, practice, practice. So, you’ve determined your programming language of choice and learned about data structures and algorithms. Now, you should continue practicing. You want to start practicing on some online platforms before participating in an official contest. Some sites for practice are Codechef, Codeforces, Topcoder, and SPOJ. Start with the basic problems, and once you are more confident, you can gradually try more difficult and complex problems. If you truly want to succeed in competitive programming, you will need to practice regularly.
+
+The Competition
+If you’re ready to participate in an official competition, here are some to consider:
+
+International Collegiate Programming Contest (ACM ICPC)
+TopCoder
+The International Olympiad in Informatics (IOI)
+The International Conference on Functional Programming (ICFP).
+Google also hosts a number of programming contests like Google Code Jam, Google Hash Code, and Google Kickstart. Here's a word of advice from Yash before you get started:
+
+“Competitive programming is a sport, if you don’t enjoy the process, it’s probably not for you. Developers are problem solvers, using existing knowledge to solve an unknown problem. CP makes you a better problem solver than non-CP developers. The same is the reason why many companies will go beyond a typical SD interview into CP to hire better problem solvers, especially at earlier levels."
+
+So what do the competitions look like? A majority of the programming problems and challenges you will be given are mathematical or logical in nature, typically involved one of the following categories: combinatorics, number theory, graph theory, geometry, string analysis, and data structures. The process of solving a problem normally involves two steps.
+
+First, constructing an efficient algorithm.
+Second, implementing the algorithm in a suitable programming language.
+Typically, you’ll be judged automatically by host machines. All the solutions submitted by contestants will be run on the judge against a series of test cases. Most of the time, problems have an all-or-none marking system, meaning that the solution is either accepted or rejected. The faster you complete an accepted solution, the higher the online judges will rank you.
+
+
+Fundamentals of competitive programming
+C++ refresher
+C++ is by far the most popular programming language for competitive programmers. It offers a library called STL (Standard Template Library). STL is a collection of C++ template classes that provides common data structures and functions.
+
+C++ is followed by other languages like Java, an Object Oriented Programming language. Java offers extensive libraries for data structures called Collections. Still, it’s a bit slower than C++, which is a downside. Another popular language in competition programming is Python because of its user-friendly functionality, as the code is significantly shorter and more concise than other programming languages. The downside to using Python is that it is quite slow compared to C/C++ and Java.
+
+Looking to review C++? Check out our course Learn Object-Oriented Programming in C++
+
+Continue the learning.
+Educative's Competitive Programming course covers theory, code samples, step-by-step solved sample problems, illustrations, useful practice problems, and tips and tricks for faster implementation! All from your browser with no extra downloads.
+
+Become a Competitive Programmer
+
+Complexity analysis
+Before you dive into data structures and algorithms, it’s important that we cover complexity analysis, which is a way to describe an algorithm’s performance and efficiency as the input grows larger. It’s important that you analyze your algorithm’s runtime complexity to determine whether your solution is going to meet the time limit.
+
+There are three cases to consider:
+
+Best case
+Average case
+Worst case
+When you are participating in a competition, you want to focus on the worst-case analysis. Typically, the inputs will force your solution to its worst-case performance.
+
+Big O notation is an asymptotic analysis that describes how long an algorithm takes to perform. In other words, it’s used to talk about how efficient or complex an algorithm is. You should brush up on this concept by checking out the article What is Big-O Notation?
+
+Data structures
+A data structure is a container that stores data in a specific layout. This "layout" allows a data structure to be efficient in some operations and inefficient in others.
+
+Understanding data structures is integral to participate in competitive programming, as you will be faced with making decisions on what data structure to utilize to most efficiently solve the problem you are given. If you've taken a computer science course in college, you most likely are familiar with data structures. You should cover:
+
+Arrays
+Stacks
+Queues
+Linked List
+Binary Tree
+Binary Search Tree
+Graphs
+Tries
+Hash tables
+Heap
+Looking for a refresher on data structures? Visit our Top Data Structures and Algorithms to know article.
+
+Number Theory
+Competitive programming deals with a lot of math, so it's important to review mathematical concepts used by developers. Let's review some of the main topics covered in competitions. These basic fundamentals can make or break your success!
+
+Algebra:
+
+Natural numbers are all positive integers starting from 1 (ex: 1, 2, 3, 4, 5, 6, 7…)
+
+Sum of the first n integers is calculated
+n(n+1)/2
+n(n+1)/2
+Factorial is denoted by n!, i.e. n! = 1 * 2 * 3...
+
+Prime numbers are natural numbers greater than 1 that can not be made by multiple other whole numbers
+
+Arithmetic Sequence:
+
+Arithmetic sequences are a series of numbers such that the difference between each consecutive number is constant. For example, an arithmetic sequence could be 1,3,5,7.., since the common difference is 2.
+
+Sum of an arithmetic sequence with $n$ terms is
+
+=n[2a + d(n-1)]/2
+=n[2a+d(n−1)]/2
+
+with n denoting the number of terms, a denoting the first term, and d denoting the common difference.
+Geometric Sequence:
+
+Geometric sequences are a series of numbers such that the next term is obtained by multiply the previous term with a common multiplier. For example, 2, 4, 8, 16, 32. The common multiplier is 2.
+
+Sum of a geometric sequence with n terms is
+
+a(1-r^n)/(1-r)
+a(1−r 
+n
+ )/(1−r)
+
+where r is the common multiplier, n is the number of terms, and a is the first term.
+Algorithmic paradigms
+Algorithmic paradigms are general strategies for solving a problem. There are four popular forms of algorithmic paradigms: brute force, divide & conquer, greedy algorithms, and dynamic programming. For today, you will learn about Brute Force and Dynamic Programming (DP).
+
+Brute force algorithms are exhaustive methods of solving a problem by trial and error. It takes advantage of sheer computing power and tries every single possibility to find a solution. An example of a brute force algorithm is linear search, a method to find a target value by iterating through every single value in a list.
+
+Dynamic Programming is an algorithmic strategy for solving a problem by breaking it down into smaller subproblems by utilizing the fact that the optimal solution to the original problem depends upon the optimal solution to its subproblems. You can read more about dynamic programming here.
+
+Graph algorithm
+A graph is a non-linear data structure that consists of nodes and edges. These nodes can also be referred to as vertices. Below is a visualization of a graph.
+
+Alt Text
+
+Popular Graph concepts to learn:
+
+Breadth First Search (BFS)
+
+Depth First Search (DFS)
+
+Shortest path from source to all vertices (Dijkstra)
+
+Shortest path from every vertex to every other vertex (Floyd Warshall)
+
+
+Wrapping up and Resources
+Now you have a sense of what competitive programming is and what concepts you'll need to brush up on before competing. If you are curious about how to compete, visit the sites below. And now, some final words from Yash:
+
+"Get yourself around people who enjoy CP. Having a group like this definitely was one of the top reasons why CP never became boring for me. Discussing new problems late at night with your friends after a competition might sound nerdy but having a motivated circle will keep you motivated. I often see students spending months on CP theory and never participating in a competition (online or onsite), fearing that they don’t know enough to start competing, or fearing the pressure of a timed contest. Writing accurate and fast code is a huge part of CP and this can only be improved by getting into a live contest.
+
 ## Most Famous Programming Contests :crown: :crown:
 
  **Upcomming contests schedule** - https://clist.by/
