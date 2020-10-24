@@ -63,13 +63,6 @@ int main()
    //for fast input output
    ios_base::sync_with_stdio(false);cin.tie(NULL);
  
-   // for taking input/output from file when not running on online coding platforms
-   
-   #ifndef ONLINE_JUDGE// if not defined ONLINE_JUDGE
-   freopen("input.txt", "r", stdin);
-   freopen("output.txt", "w", stdout);
-   #endif   // end if
- 
    solve();
  
    //to show actual running time of program  
