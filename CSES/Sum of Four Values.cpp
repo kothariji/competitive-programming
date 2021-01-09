@@ -41,7 +41,7 @@ void subMain(){
 			}
 		}
 	}
-	cout<<"IMPOSSIBLE\n";
+	cout<<"IMPOSSIBLE" << "\n";
 }
 
 int32_t main(){
