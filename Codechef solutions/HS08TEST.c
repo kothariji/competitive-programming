@@ -1,33 +1,19 @@
-//Submitted by Rakshit Naidu
-
-
-#include <stdio.h>
-
-int main(void) {
-	// your code goes here
-	int withdraw_amount;
-	float init_balance;
-	scanf("%d %f",&withdraw_amount,&init_balance);
-	
-	
-	if(withdraw_amount % 5 == 0)
-	{
-	    
-	    if(withdraw_amount < (init_balance - 0.5))
-	    {
-	        init_balance = init_balance - withdraw_amount - 0.5;
-	        printf("%.2f",init_balance);
-	    }
-	    else
-	    {
-	        printf("%.2f",init_balance);
-	    }
-	  
-	}
-	else
-	{
-	    printf("%.2f",init_balance);
-	}
-	
-	return 0;
+// This problem can be found on this URL : https://www.codechef.com/problems/HS08TEST
+#include<stdio.h>
+    
+int main()
+{   
+    int w;
+    float t;
+  	scanf("%d%f",&w,&t);
+   	if(w+0.5>t)
+   	{
+   		printf("%.2f",t);		
+   	}
+   	else if(w%5!=0)
+   	    printf("%.2f",t);
+   	else
+  	    printf("%.2f",t-w-0.5);    
+  
+    return 0 ;
 }
