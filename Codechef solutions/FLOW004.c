@@ -1,28 +1,13 @@
-//Author: Rakshit Naidu
+#include<stdio.h>
+#include<string.h>
 
-#include <stdio.h>
-
-int main(void) {
-	// your code goes here
-	int t;
-	scanf("%d",&t);
-	
-	while(t>0)
-	{
-	    int n,c=0;
-	    scanf("%d",&n);
-	    
-	    while(n>0)
-	    {
-	        int rem = n % 10;
-	        if(rem==4)
-	        {
-	            c = c+1;
-	        }
-	        n = n / 10;
-	    }
-	    printf("%d\n",c);
-	    t--;
-	}
-	return 0;
+ int main()
+{
+    int t; scanf("%d",&t);
+	char a[10];
+    while(t--)
+    	{
+    		scanf("%s",a);
+    		printf("%ld\n",(a[0]-'0' + a[strlen(a)-1] - '0'));
+	  	}
 }
