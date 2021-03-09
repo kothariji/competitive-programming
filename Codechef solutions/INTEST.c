@@ -1,24 +1,17 @@
-//Author: Rakshit Naidu
-
-#include <stdio.h> 
-
-int main() {
-	// Read the input n, k
-	int n, k;
-	scanf("%d %d", &n, &k);
-
-	int ans = 0;
-
-	for (int i = 0; i < n; i++) {
-		int t;
-		scanf("%d", &t);
-		
-		if (t % k == 0) {
-			ans++;
-		}		
+#include<stdio.h>
+   
+int main()
+{
+   	int n,k,t;
+   	int c=0,i;
+   	scanf("%d %d",&n,&k);
+   	i=1;
+   	while(i<=n)
+   	{
+  		scanf("%d\n",&t);
+  		if(t%k==0) c++;
+		i++;
 	}
-
-	printf("%d\n", ans);
-	
+	printf("%d",c);
 	return 0;
 }
