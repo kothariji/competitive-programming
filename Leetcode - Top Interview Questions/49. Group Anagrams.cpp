@@ -3,12 +3,13 @@ class Solution
 public:
     vector<vector<string>> groupAnagrams(vector<string> &strs)
     {
-        unordered_map<string, vector<string>> mp1;
-        for (auto c : strs)
+        unordered_map<unordered_multiset<char>, vector<string>> mp1;
+        for (c : strs)
         {
-            string temp = c;
-            sort(temp.begin(), temp.end());
-            mp1[temp].push_back(c);
+            unordered_multiset<char> ms1;
+            for (char h : c)
+                ms1.insert(h);
+            mp1[ms1].push_back(c);
         }
         vector<vector<string>> res;
         for (auto c : mp1)
