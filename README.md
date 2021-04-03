@@ -58,6 +58,7 @@ Interview prep: When you are trying to get an engineering job, companies will te
 - [Data Structures and Algorithms Made Easy📚](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X) - by Narasimha Karumanchi
 - [Cracking the Coding Interview📚](http://www.crackingthecodinginterview.com/) - by Gayle Laakmann McDowell
 - [CP Handbook By Antti Laaksonen](https://github.com/pllk/cphb/blob/master/book.pdf)
+- [USACO Guide by the Competitive Programming Initiative](https://usaco.guide)
 
 ## Algorithms  :high_brightness::high_brightness:
 - [CP Algorithms](https://cp-algorithms.com/)
