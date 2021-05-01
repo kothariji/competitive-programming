@@ -25,13 +25,13 @@
 ```javascript
 if(Wanted to Contribute)
 {
-Please kindly read the Contributing.md and code of conduct given below👇
+Please kindly read the Contributing.md given below👇
 Happy Coding😀😀
 }
 ```
 ## [Watch Video on Youtube](https://youtu.be/F-55d7TX-aM)
 
 ## **_Note_** : Read How to Download Before Use
-# [Contributing.md](https://github.com/Kushal997-das/Project-Guidance/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/Kushal997das/ProjectGuidance/blob/main/CODE_OF_CONDUCT.md)
+# [Contributing.md](https://github.com/kothariji/competitive-programming/blob/master/CONTRIBUTING.md) 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
