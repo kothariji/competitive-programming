@@ -1,0 +1,6 @@
+If you want to download UG Typing Expert app..
+So Follow the step to download...
+First Step: download the .cpp file
+Second Step : Download (Download to use)File.
+Third Step : Now move the .cpp file in Download to use..
+Now you can run it in your IDE But you need Graphics.h header file and manage graphics in IDE..
