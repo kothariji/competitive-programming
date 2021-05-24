@@ -80,12 +80,12 @@ Interview prep: When you are trying to get an engineering job, companies will te
  - **Big-O CheatSheet** https://www.bigocheatsheet.com/
 ---
  ### STL in C++
- - **Codealittle** - https://www.youtube.com/watch?v=PCahjLFtlbY&list=PL1oKdRlSbldPUXbtWctRz14C1f8R78MVZ
- - **Takeyouforward** - https://www.youtube.com/watch?v=zBhVZzi5RdU&t=1s
- - **CppNuts** - https://www.youtube.com/watch?v=LyGlTmaWEPs&list=PLk6CEY9XxSIA-xo3HRYC3M0Aitzdut7AA
+ - **Codealittle** - [Video](https://www.youtube.com/watch?v=PCahjLFtlbY&list=PL1oKdRlSbldPUXbtWctRz14C1f8R78MVZ)
+ - **Takeyouforward** - [Video](https://www.youtube.com/watch?v=zBhVZzi5RdU&t=1s)
+ - **CppNuts** - [Video](https://www.youtube.com/watch?v=LyGlTmaWEPs&list=PLk6CEY9XxSIA-xo3HRYC3M0Aitzdut7AA)
  
  
- -  [ ] STL SUMMARY https://codeforces.com/blog/entry/6058
+ -  [ ] STL SUMMARY [Blog post](https://codeforces.com/blog/entry/6058)
  - [ ] [Vectors (Dynamic Arrays)](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
 - [ ] [Sets](https://www.geeksforgeeks.org/set-in-cpp-stl/)
   - [Set](https://www.geeksforgeeks.org/set-in-cpp-stl/)
@@ -102,7 +102,7 @@ Interview prep: When you are trying to get an engineering job, companies will te
 - [ ] [Deque](https://www.geeksforgeeks.org/deque-cpp-stl/)
 ---
  ### Binary Search
- - **Aditya Verma** https://www.youtube.com/watch?v=j7NodO9HIbk&list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2
+ - **Aditya Verma** [Video](https://www.youtube.com/watch?v=j7NodO9HIbk&list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2)
  
  **Problems**
 - Allocate Minimum No of pages(GFG)
@@ -121,25 +121,25 @@ Interview prep: When you are trying to get an engineering job, companies will te
 - Heaters(Leetcode)
 ---
  ### Number Theory (Mathematics)
- - **CodeNCode** - https://www.youtube.com/watch?v=eRkqvQtm4DU&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG
+ - **CodeNCode** - [Video](https://www.youtube.com/watch?v=eRkqvQtm4DU&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG)
 ---
  ### Recursion and BackTracking
- - **Aditya Verma** - https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY
- - **Codealittle** - https://www.youtube.com/watch?v=-9FinR1AVys&list=PL1oKdRlSbldN8ffk23nuYQZwO0HSIPy9F 
+ - **Aditya Verma** - [Video](https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY)
+ - **Codealittle** - [Video](https://www.youtube.com/watch?v=-9FinR1AVys&list=PL1oKdRlSbldN8ffk23nuYQZwO0HSIPy9F) 
 ---
  ### Bit Manipulations
- - **Codealittle** - https://www.youtube.com/watch?v=5upadP-hWXQ&list=PL1oKdRlSbldNz2p_xrBMf2GhCKRm-cH2A 
- - **codencode** - https://www.youtube.com/watch?v=efL86JCONH0&list=PL2q4fbVm1Ik7ip1VkWwe5U_CEb93vw6Iu
+ - **Codealittle** - [Video](https://www.youtube.com/watch?v=5upadP-hWXQ&list=PL1oKdRlSbldNz2p_xrBMf2GhCKRm-cH2A) 
+ - **codencode** - [Video](https://www.youtube.com/watch?v=efL86JCONH0&list=PL2q4fbVm1Ik7ip1VkWwe5U_CEb93vw6Iu)
 ---
  ### Graph Theory
- - **CodeNcode** - https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh
- - **Hitesh Tripathi** - https://www.youtube.com/watch?v=1BPQYzCYDx4&list=PLJOYB9TDUqmlnn9mu11qHxxQK_ioX9Wdm
+ - **CodeNcode** - [Video](https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
+ - **Hitesh Tripathi** - [Video](https://www.youtube.com/watch?v=1BPQYzCYDx4&list=PLJOYB9TDUqmlnn9mu11qHxxQK_ioX9Wdm)
 ---
  ### Dynamic Programing
- - **Tushar Roy** - https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
- - **GeeksforGeeks** - https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm
- - **Aditya Verma** - https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm
- - **TakeYouForward** - https://www.youtube.com/watch?v=PPi3326JhGc&list=PLgUwDviBIf0pmD4Eur6Cl5XfBO4EtgKGe 
+ - **Tushar Roy** - [Video](https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+ - **GeeksforGeeks** - [Video](https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm)
+ - **Aditya Verma** - [Video](https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm)
+ - **TakeYouForward** - [Video](https://www.youtube.com/watch?v=PPi3326JhGc&list=PLgUwDviBIf0pmD4Eur6Cl5XfBO4EtgKGe) 
 ---
 
 
@@ -175,7 +175,7 @@ Interview prep: When you are trying to get an engineering job, companies will te
 - [Disjoint-Set Data Structures](https://www.youtube.com/watch?v=wU6udHRIkcc) 
 - [Trie](https://www.youtube.com/watch?v=AXjmTQ8LEoI&t=946s) 
 - [Segment Tree](https://www.youtube.com/watch?v=FR5d4V7Z9SE) 
-- [Policy based Data Structures] (https://codeforces.com/blog/entry/11080)
+- [Policy based Data Structures](https://codeforces.com/blog/entry/11080)
 ---
 
 ## Searching  
@@ -197,7 +197,7 @@ Interview prep: When you are trying to get an engineering job, companies will te
 ## Mathematics: 
 
 ### Playlists
- - **CodeNcode** - https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh
+ - [**CodeNcode** ](https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
  
 ### Number Theory 
 - Prime Number Generation (Sieve, Segmented Sieve) 
@@ -225,7 +225,7 @@ Interview prep: When you are trying to get an engineering job, companies will te
 - Solving System Of Linear Equations 
 - Matrix Exponentiation To Solve Recurrences 
 ---
-### Game Theory - https://www.youtube.com/watch?v=_thN1Rp_FRA
+### Game Theory - [Video](https://www.youtube.com/watch?v=_thN1Rp_FRA)
 --- 
 ### Greedy
 **Problems**
@@ -254,7 +254,7 @@ Interview prep: When you are trying to get an engineering job, companies will te
 ## Graphs: 
 
 ### Playlists
-  - **CodeNCode** - https://www.youtube.com/watch?v=eRkqvQtm4DU&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG
+  - **CodeNCode** - [Video](https://www.youtube.com/watch?v=eRkqvQtm4DU&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG)
 
 ### Graph Representation 
 - Adjacency Matrix 
@@ -292,9 +292,9 @@ Interview prep: When you are trying to get an engineering job, companies will te
 ## Dynamic Programming 
 
 ### Playlists
-- **Tushar Roy** - https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
-- **GeeksforGeeks** - https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm
-- **Aditiya verma**-  https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go
+- [**Tushar Roy**](https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+- [**GeeksforGeeks**](https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm)
+- [**Aditiya verma**](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
 
 ### Classical Problems 
 - Fibonacci Series
