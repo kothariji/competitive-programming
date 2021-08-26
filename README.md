@@ -286,7 +286,7 @@ Interview prep: When you are trying to get an engineering job, companies will te
 - Bellman-Ford 
 - Floyd Warshall’s Algorithm 
 - Euler Tour 
-
+- Lowest Common Ancestor using Binary Lifting
 
 ---
 ## Dynamic Programming 
