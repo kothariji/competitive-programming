@@ -287,7 +287,7 @@ Interview prep: When you are trying to get an engineering job, companies will te
 - Floyd Warshall’s Algorithm 
 - Euler Tour 
 - Lowest Common Ancestor using Binary Lifting
-
+- Kruskal's Minimum Spanning Tree Algorithm
 ---
 ## Dynamic Programming 
 
