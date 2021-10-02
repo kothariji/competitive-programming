@@ -1,22 +1,31 @@
 class Solution {
 public:
-    int removeDuplicates(vector<int>& nums) {
-        if(nums.size()<=1) return nums.size();
-        int i=0,n=nums.size(),greater_than=0,size;
-        while(i<n)
+    vector<int> spiralOrder(vector<vector<int>>& matrix) {
+        vector<int> ans;
+        int c=0,i,j,n=matrix.size(),m=matrix[0].size(),p=0;
+        while(p<n*m)
         {
-            
-            size=greater_than+1;
-            i++;
-            while(i<n && nums[i]<=nums[greater_than])
-                i++;
-            if(i<n)
-            {
-                swap(nums[size],nums[i]);
-                greater_than=size;
-            }
-            
+            for(i=c;i<m-c-1;i++)
+                if(matrix[c][i]!=101)
+                ans.push_back(matrix[c][i]),matrix[c][i]=101,p++;
+            else return ans;
+            for(j=c;j<n-1-c;j++)
+                if(matrix[j][m-1-c]!=101)
+                ans.push_back(matrix[j][m-1-c]),matrix[j][m-1-c]=101,p++;
+            else return ans;
+            for(i=m-1-c;i>=c;i--)
+                if(matrix[n-1-c][i]!=101)
+                ans.push_back(matrix[n-1-c][i]),matrix[n-1-c][i]=101,p++;
+            else return ans;
+        
+            for(j=n-2-c;j>c;j--)
+                if(matrix[j][c]!=101)
+                ans.push_back(matrix[j][c]),matrix[j][c]=101,p++;
+            else return ans;
+            c++;
         }
-        return size;
+    
+        return ans;
     }
+    
 };
