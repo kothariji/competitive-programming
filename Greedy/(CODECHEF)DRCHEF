@@ -1,0 +1,71 @@
+/* Dipesh Kumar */
+
+#include <bits/stdc++.h>
+typedef long long int ll;
+using namespace std;
+
+int main() {
+	int t;
+	cin >> t;
+    while(t--)
+        {
+            ll n, x;
+            cin >> n >> x;
+            vector<ll> a(n, 0);
+            for(ll i = 0; i < n; i++)
+                cin >> a[i];
+
+            ll d = 0;
+            sort(a.begin(), a.end());
+            vector<ll>::iterator it = lower_bound(a.begin(), a.end(), x);
+            ll lb = it - a.begin();
+
+            for(ll i = lb;i < n; i++)
+            {
+                if(x < a[i])
+                {
+                    while(x < a[i])
+                    {
+                        x *= 2;
+                        d++;
+                    }
+                  d++;
+                }
+                else
+                    d++;
+
+                x = (a[i] * 2);
+            }
+            ll t = lb + d;
+            if(lb != 0)
+            {
+                d = 0;
+                lb--;
+                for(ll i = lb;i < n; i++)
+                {
+                    if(x < a[i])
+                    {
+                        while(x < a[i])
+                        {
+                            x *= 2;
+                            d++;
+                        }
+                        d++;
+                    }
+                    else
+                        d++;
+
+                    x = (a[i] * 2);
+                }
+                if(d + lb < t)
+                    cout << d + lb;
+                else
+                    cout << t;
+            }
+            else
+                cout << lb + d;
+
+            cout<< endl;
+        }
+    return 0;
+}

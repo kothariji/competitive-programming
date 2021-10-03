@@ -1,0 +1,9 @@
+cases = int(input())
+for i in range(cases):
+    n=int(input())
+    arr=[int(i) for i in input().split()]
+    if 0 in arr:
+        print(len(set(arr))-1)
+    else:
+        print(len(set(arr)))
+        
