@@ -7,7 +7,6 @@ using namespace std;
 
 int minDistance(int dist[], bool sptSet[])
 {
-
 	int min = INT_MAX, min_index;
 
 	for (int v = 0; v < V; v++)
@@ -19,13 +18,16 @@ int minDistance(int dist[], bool sptSet[])
 
 void printSolution(int dist[])
 {
+
 	cout <<"Vertex \t Distance from Source" << endl;
 	for (int i = 0; i < V; i++)
 		cout << i << " \t\t"<<dist[i]<< endl;
+
 }
 
 void dijkstra(int graph[V][V], int src)
 {
+
 	int dist[V];
 
 	bool sptSet[V];
@@ -53,7 +55,6 @@ void dijkstra(int graph[V][V], int src)
 
 int main()
 {
-
 	int graph[V][V] = { { 0, 4, 0, 0, 0, 0, 0, 8, 0 },
 						{ 4, 0, 8, 0, 0, 0, 0, 11, 0 },
 						{ 0, 8, 0, 7, 0, 4, 0, 0, 2 },
