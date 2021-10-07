@@ -145,6 +145,7 @@ Interview prep: When you are trying to get an engineering job, companies will te
 
 ## Coding Platforms
 
+- **Beginners** - [Practice @ Codecademy](https://www.codecademy.com/learn)
 - **Beginners** - [Practice @ GeeksForGeeks](https://practice.geeksforgeeks.org/)
 - **Beginners** - [HackerRank (Must do for a Beginner)](https://www.hackerrank.com/)
 - **Beginners** - [HackerEarth](https://www.hackerearth.com/)
