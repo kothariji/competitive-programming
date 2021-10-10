@@ -16,11 +16,7 @@ using namespace std;
 #define fast ios::sync_with_stdio(0);cin.tie(0);cout.tie(0);
 #define mod 1000000007
 #define INF 1000000008
-//Bits
-#define clz(n)    __builtin_clz(n)
-#define ones(n)   __builtin_popcount(n)
-#define parity(n) __builtin_parity(n)
-#define ctz(n)    __builtin_ctz(n)
+
 //Vector
 #define vec(v) vector<int> v
 #define pb(a) push_back(a)
