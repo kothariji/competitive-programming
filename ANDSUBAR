@@ -34,3 +34,50 @@ Test case 2: We can't take the entire sequence [1,2] as a subarray because the b
 Test case 4: It is optimal to take the subarray [2,3] and the bitwise AND of 2 and 3 is 2.
 
 Test case 5: It is optimal to take the subarray [4,5,6,7] and the bitwise AND of all integers in this subarray is 4.
+
+
+
+
+// The code for ANDSUBAR is
+
+
+#include<bits/stdc++.h>
+#define z long long
+using namespace std;
+
+int main() {
+	ios_base::sync_with_stdio(false);
+    cin.tie(NULL); 
+    cout.tie(NULL);
+   z t,x ,y ,k,N;
+	cin>>t;
+	while(t--)
+	{
+	    cin>>N;
+	    /*if(N==2)
+	    {
+	        cout<<"1\n";
+	    }
+	    else if(N!=2)*/
+	       for(int i=0;i<=N;i++) 
+             {  
+               if(pow(2,i)<=N) 
+                 k=pow(2,i); 
+               else if(pow(2,i)>N)
+                 break;
+             } 
+	    
+	  
+	   x=k/2;
+	 y=N-k+1;
+	if(x >y) 
+cout<<x<<endl;
+      else if(x<y) 
+     cout<<y<<endl;
+     else
+     cout<<x<<endl;
+     x=0,y=0;
+	    }
+	 return 0;
+
+}
