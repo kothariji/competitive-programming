@@ -1,4 +1,5 @@
 # Queue-Visualizer
+
 <h2 align="center">The Best Way to understand Queue😊😊</h2>
 <img src="https://github.com/UG-SEP/Queue-Visualizer/blob/UG/screenshots/1.jpg" alt="image" title="queue"/>
 <img src="https://github.com/UG-SEP/Queue-Visualizer/blob/UG/screenshots/2.jpg" alt="image" title="queue"/>

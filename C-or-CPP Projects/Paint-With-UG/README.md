@@ -1,10 +1,11 @@
-![](https://img.shields.io/badge/Welcome-Developers-sliver.svg) 
+![](https://img.shields.io/badge/Welcome-Developers-sliver.svg)
 ![](https://img.shields.io/badge/Programming_Language-c++-blue.svg)
 ![](https://img.shields.io/badge/Library-Graphics.h-gold.svg)
 ![](https://img.shields.io/badge/Platform-Desktop_Development-green.svg)
 ![](https://img.shields.io/badge/Status-Beta-green.svg)
 ![](https://img.shields.io/badge/Version-CodeBlocks_20.03-red.svg)
 ![](https://img.shields.io/badge/Version-updated-blue.svg)
+
 <h1><p align="center">Paint-with-UG-The-SEP</p>
 <p align="center">😲Updated Version😲</p> </h1>
 <h2> Feature in Paint with UG</h2><br>
@@ -50,5 +51,3 @@
 <h2> 🤝 Connect with me:-</h2>
  [youtube]: https://www.youtube.com/channel/UChdmj1kcZiXXsmEKz7dVnWQ </br>
 [linkedin]: https://www.linkedin.com/in/ujjwal-gupta-ug-233543202/ </br>
-
-
