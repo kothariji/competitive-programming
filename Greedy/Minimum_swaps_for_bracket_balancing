@@ -6,12 +6,12 @@ using namespace std;
 
 long swapCount(string s)
 {
-    vector<int> pos;
+    vector<int> v;
     for (int i = 0; i < s.length(); ++i)
         if (s[i] == '[')
-            pos.push_back(i);
+            v.push_back(i);
  
-    int count = 0; 
+    int cnt = 0; 
     int p = 0;  
     long sum = 0; 
  
@@ -20,20 +20,20 @@ long swapCount(string s)
         
         if (s[i] == '[')
         {
-            ++count;
+            ++cnt;
             ++p;
         }
         else if (s[i] == ']')
-            --count;
+            --cnt;
  
        
-        if (count < 0)
+        if (cnt < 0)
         {
-            sum += pos[p] - i;
-            swap(s[i], s[pos[p]]);
+            sum += v[p] - i;
+            swap(s[i], s[v[p]]);
             ++p;
  
-            count = 1;
+            cnt = 1;
         }
     }
     return sum;
