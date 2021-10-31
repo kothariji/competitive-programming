@@ -1,4 +1,4 @@
-//https://www.codechef.com/OCT21C/problems/ANDSUBAR
+
 #include <iostream>
 using namespace std;
 
