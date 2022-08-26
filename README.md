@@ -209,7 +209,7 @@ Interview prep: When you are trying to get an engineering job, companies will te
 
 ## Searching
 
-- Linear Search
+- [Linear Search](https://www.scaler.com/topics/linear-search-in-c/)
 - Binary Search
 - Ternary Search
 
