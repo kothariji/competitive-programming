@@ -213,6 +213,9 @@ Interview prep: When you are trying to get an engineering job, companies will te
 - Linear Search
 - Binary Search
 - Ternary Search
+- Jump Search
+- Interpolation Search
+- Exponential Search
 
 ---
 
