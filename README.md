@@ -25,7 +25,7 @@ According to me, competitive programming is a sport. A sport based on problem-so
 - #### [Leetcode (for monthly challenges)](https://www.leetcode.com/)
 - #### [CSES](https://cses.fi/problemset/)
 - #### [binarysearch](https://www.binarysearch.com/)
-
+- #### [Coderbyte](https://coderbyte.com/#courses)
 ## BENEFITS OF COMPETITIVE PROGRAMMING
 
 The skills needed for competitive programming have long-lasting benefits to your career as a developer. There are numerous benefits to participating in competitive programming, including:
@@ -60,6 +60,7 @@ Interview prep: When you are trying to get an engineering job, companies will te
 - [Cracking the Coding Interview📚](http://www.crackingthecodinginterview.com/) - by Gayle Laakmann McDowell
 - [CP Handbook By Antti Laaksonen](https://github.com/pllk/cphb/blob/master/book.pdf)
 - [USACO Guide by the Competitive Programming Initiative](https://usaco.guide)
+- [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf) - by Antti Laaksonen
 
 ## Algorithms :high_brightness::high_brightness:
 
