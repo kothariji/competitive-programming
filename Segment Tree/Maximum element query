@@ -1,3 +1,5 @@
+//Segment tree max query in a range with updates
+
 #include<bits/stdc++.h>
 using namespace std;
 //common file for PBDS
