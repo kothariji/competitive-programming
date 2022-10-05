@@ -1,40 +1,34 @@
+// Time:  O(n^2)
+// Space: O(1)
+
 class Solution {
 public:
-    vector<vector<int>> threeSum(vector<int>& nums) {
-        vector<vector<int>>ans;
-        vector<int> temp;
-        sort(nums.begin(), nums.end());
-        if(nums.size()<3)
-            return ans;
-        int i,j,k;
-        for(i=0;i<nums.size()-2;i++){
-            if(i!=0 && nums[i]==nums[i-1])
+    vector<vector<int>> threeSum(vector<int> &nums) {
+        sort(begin(nums), end(nums));
+        vector<vector<int>> result;
+        for (int i = size(nums) - 1; i >= 2; --i) {
+            if (i + 1 < size(nums) && nums[i] == nums[i + 1]) {
                 continue;
-            j=i+1;
-            k=nums.size()-1;
-            
-            while(j<k){
-                if(-nums[i]==nums[j]+nums[k]){
-                    temp.clear();
-                    temp.push_back(nums[i]);
-                    temp.push_back(nums[j]);
-                    temp.push_back(nums[k]);
-                    // if(find(ans.begin(),ans.end(),temp)==ans.end()){
-                        ans.push_back(temp);
-                        //cout<<"in if";
-                    // }
-                    while(j<k && nums[j]==nums[j+1])  
-                        j++;
-                    j++;
-                    
-                    k--;
+            }
+            const auto& target = -nums[i];
+            int left = 0, right = i - 1;
+            while (left < right) {
+                if (nums[left] + nums[right] < target) {
+                    ++left;
+                } else if (nums[left] + nums[right] > target) {
+                    --right;
+                } else {
+                    result.push_back({nums[left], nums[right], nums[i]});
+                    ++left; --right;
+                    while (left < right && nums[left] == nums[left - 1]) {
+                        ++left;
+                    }
+                    while (left < right && nums[right] == nums[right + 1]) {
+                        --right;
+                    }
                 }
-                else if(-nums[i]<nums[j]+nums[k])
-                    k--;
-                else
-                    j++;
             }
         }
-        return ans;            
+        return result;
     }
 };
