@@ -6,7 +6,7 @@ struct node {
   int data;
   struct node * left, * right;
 };
-//maxwidth code
+//maxwidth code 
 int widthOfBinaryTree(node * root) {
   if (!root)
     return 0;
