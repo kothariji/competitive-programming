@@ -1,5 +1,7 @@
 // Question Link : https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 
+//This problem is related to arrays,sliding window and prefix sum.
+
 // 1. Calculate the length of minimum subsequence.
 // 2. Run a loop which calculates the overall sum,sum of first subsequence and the minimum (mini) of remaining subsequences (temp) .
 // 3. Return sum - mini ( The maximum sum we can achieve by removing k elements from the front or beginning) 
