@@ -375,6 +375,9 @@ Interview prep: When you are trying to get an engineering job, companies will te
 - Max Size Square Submatrix With One
 - Maximum Length Chain
 - Catalan Number And its Applications
+- Snake and Ladder Problem
+- Word Break Problem
+- N–Queens Problem
 
 ### Doubts and queries
 
