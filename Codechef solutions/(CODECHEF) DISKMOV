@@ -1,0 +1,44 @@
+#include <bits/stdc++.h>
+#define ll long long
+#define pb push_back
+#define pob pop_back
+#define mp make_pair
+#define io ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
+#define t ll t;cin>>t;while(t--)
+using namespace std;
+
+
+int main()
+{
+ t{
+  ll n,k,h=0,x,c=1,vc=1,r=0,tk;cin>>n>>k;
+  tk=k;
+   vector<int>arr(2*n+1,0);
+   vector<int>vec;
+   for(int i=0;i<n;i++){
+    cin>>x;
+    vec.pb(x);
+    arr[x]=1;
+   }
+   sort(vec.begin(),vec.end());
+   if(vec[vec.size()-1]==2*n){
+       for(int i=1;i<=2*n;i++){
+          if(k==0)break;
+          if(arr[i]==0){r+=i;k--;}
+       }
+       cout<<2*n*(tk)-r<<endl;
+
+   }
+   else{
+       int z;
+       for(int i=1;i<=2*n;i++){
+          if(k==0)break;
+          if(arr[i]==0){r+=i;k--;z=i;}
+       }
+      
+       cout<<max(2*n*(tk-1)-r+z,tk*vec[vec.size()-1]-r)<<endl;
+   }
+
+ }
+  return 0;
+}
