@@ -1,4 +1,4 @@
-// Problem 119 Arrays. 
+// Problem 119 Pascals Triangle II   (Arrays). 
 
 // Given an integer rowIndex, return the rowIndexth (0-indexed) row of the Pascal's triangle.
 
