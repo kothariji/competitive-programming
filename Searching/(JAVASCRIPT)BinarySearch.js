@@ -1,6 +1,6 @@
-// [+] -------------- Iterative Approach -------------- [+] 
-const BinarySearch = (arr, item, low = 0, high = arr.length - 1 ) => {
-  while(low <= high) {
+// [+] -------------- Iterative Approach -------------- [+]
+const BinarySearch = (arr, item, low = 0, high = arr.length - 1) => {
+  while (low <= high) {
     // Middle item of the array
     const mid = Math.floor((low + high) / 2);
 
@@ -16,14 +16,13 @@ const BinarySearch = (arr, item, low = 0, high = arr.length - 1 ) => {
       // arr[mid] is lesser than item => mid < item <= high
       low = mid + 1;
     }
-  } 
+  }
 
   // if low > high => we have searched the whole array an d not found the item.
   return -1;
-}
+};
 
-
-// [+] -------------- Recursive Approach -------------- [+] 
+// [+] -------------- Recursive Approach -------------- [+]
 const BinarySearchRecursive = (arr, item, low = 0, high = arr.length - 1) => {
   const mid = Math.floor((low + high) / 2);
 
@@ -31,7 +30,7 @@ const BinarySearchRecursive = (arr, item, low = 0, high = arr.length - 1) => {
     // Base Case
     if (arr[mid] === item) {
       // item found => return its index
-      return mid; 
+      return mid;
     }
 
     if (item > arr[mid]) {
@@ -45,7 +44,7 @@ const BinarySearchRecursive = (arr, item, low = 0, high = arr.length - 1) => {
     // we searched through whole array and didn't found the item
     return -1;
   }
-}
+};
 
 /* ---------------------------------- Test ---------------------------------- */
 

@@ -1,6 +1,6 @@
-# Number Theory for Competitive Programming 
-#### Refrence Geeksforgeeks
+# Number Theory for Competitive Programming
 
+#### Refrence Geeksforgeeks
 
 <p><strong> Basics :</strong></p>
 
@@ -13,9 +13,7 @@
 7. [Basic and Extended Euclidean algorithms](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/)
 8. Integer sequences: [Fibonacci](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/), [Padovan](https://www.geeksforgeeks.org/padovan-sequence/), [OESIS](https://www.geeksforgeeks.org/how-to-use-oesis/)
 
-
 <p><strong>Modular Arithmetic :</strong></p>
-
 
 <ol>
 <li><a href="https://www.geeksforgeeks.org/eulers-totient-function/">Euler’s Totient Function</a></li>
@@ -40,7 +38,6 @@
 <li><a href="https://www.geeksforgeeks.org/wilsons-theorem/">Wilson’s Theorem</a></li>
 </ol>
 
-
 <p><strong>Number Theory :</strong></p>
 
 <ol>
@@ -58,10 +55,7 @@
 <li><a href="https://www.geeksforgeeks.org/pollards-rho-algorithm-prime-factorization/">Pollard’s Rho Algorithm for Prime Factorization</a></li>
 </ol>
 
-
-
 <p><strong> Coding Problems :</strong></p>
-
 
 <ol>
 <li><a href="https://www.geeksforgeeks.org/searching-for-patterns-set-3-rabin-karp-algorithm/">Searching for Patterns | Set 3 (Rabin-Karp Algorithm)</a></li>
@@ -80,10 +74,7 @@
 <li><a href="https://www.geeksforgeeks.org/number-substrings-divisible-6-string-integers/">Number of substrings divisible by 6 in a string of integers</a></li>
 </ol>
 
-
-
 <p><strong>Misc :</strong></p>
-
 
 <ol>
 <li><a href="https://www.geeksforgeeks.org/how-to-compute-mod-of-a-big-number/">How to compute mod of a big number?</a></li>
@@ -93,17 +84,10 @@
 <li><a href="https://www.geeksforgeeks.org/rsa-algorithm-cryptography/">RSA Algorithm in Cryptography</a></li>
 </ol>
 
-
-
 <p><strong> Game Theory:</strong></p>
-
 
 <ol>
 <li><a href="https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/">Minimax</a></li>
 <li><a href="https://www.geeksforgeeks.org/combinatorial-game-theory-set-2-game-nim/">Nim Game</a></li>
 <li><a href="https://www.geeksforgeeks.org/combinatorial-game-theory-set-4-sprague-grundy-theorem/">Sprague – Grundy Theorem</a></li>
 </ol>
-
-
-
-

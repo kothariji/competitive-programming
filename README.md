@@ -1,10 +1,12 @@
 ![Banner](https://socialify.git.ci/kothariji/competitive-programming/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark)
+
 # Competitive Programming :high_brightness::high_brightness:
 
 Hello Programmers💻,
 A one-stop destination for all your Competitive Programming Resources.
 
 ## :pushpin::pushpin: What is Competitive Programming? :pushpin::pushpin:
+
 According to me, competitive programming is a sport. A sport based on problem-solving skills, thinking ability, speed testing, regularity and to be precise. Competitive Programming will help you build logic and implement that logic to find solutions to a real-world problem. Brainstorming upon your code will increase your coding skills as well as it will help to expand your thinking capacity. Thus practicing Competitive Programming on day to day basis helps you in mastering that particular language. And believe us, if you are playing this sport regularly, you are already prepared for the technical rounds of the Interviews. So now let's dive into the ocean of **Competitive Programming.**
 
 ## Platform to practice Competitive Programming :telescope::telescope:
@@ -23,8 +25,7 @@ According to me, competitive programming is a sport. A sport based on problem-so
 - #### [Leetcode (for monthly challenges)](https://www.leetcode.com/)
 - #### [CSES](https://cses.fi/problemset/)
 - #### [binarysearch](https://www.binarysearch.com/)
-
-
+- #### [Coderbyte](https://coderbyte.com/#courses)
 ## BENEFITS OF COMPETITIVE PROGRAMMING
 
 The skills needed for competitive programming have long-lasting benefits to your career as a developer. There are numerous benefits to participating in competitive programming, including:
@@ -35,37 +36,39 @@ Teamwork skills: When you participate in these competitions, you will often work
 
 Interview prep: When you are trying to get an engineering job, companies will test you for your knowledge of data structures and algorithms. When you participate in competitive programming, you work to develop an advanced understanding of these concepts. Furthermore, the environment for the coding interview and competitive programming is quite similar. They are both high-pressure environments, in which you have to engage in problem-solving. While many others may not be able to adjust to this environment, your competition experience gives you an advantage.
 
-
 ## Most Famous Programming Contests :crown: :crown:
 
- **Upcomming contests schedule** - https://clist.by/
- - [Google KickStart🏆](https://codingcompetitions.withgoogle.com/kickstart)
- - [ACM ICPC (Olympics of Programming)🏆](https://icpc.global/)
- - [Google CodeJam🏆](https://codingcompetitions.withgoogle.com/codejam)
- - [FaceBook Hacker Cup🏆](https://www.facebook.com/hackercup/contest)
- - [TCS CodeVita🏆](https://campuscommune.tcs.com/en-in/intro/contests/codevita-season-9)
- - [Google HashCode🏆](https://codingcompetitions.withgoogle.com/hashcode/)
- - [CodeChef's SnackDown🏆](https://www.codechef.com/snackdown)
- - [Coding Block's CodeSule🏆](https://hack.codingblocks.com/app/competitions/1)
- - Codechef Long Challenge🏆
- - Codechef Cook-Off 🏆
- - Codechef Lunchtime🏆
- - Codeforces Rounds Div1 & Div2 & Div3 & Educational Codeforces Round🏆
+**Upcomming contests schedule** - https://clist.by/
 
+- [Google KickStart🏆](https://codingcompetitions.withgoogle.com/kickstart)
+- [ACM ICPC (Olympics of Programming)🏆](https://icpc.global/)
+- [Google CodeJam🏆](https://codingcompetitions.withgoogle.com/codejam)
+- [FaceBook Hacker Cup🏆](https://www.facebook.com/hackercup/contest)
+- [TCS CodeVita🏆](https://campuscommune.tcs.com/en-in/intro/contests/codevita-season-9)
+- [Google HashCode🏆](https://codingcompetitions.withgoogle.com/hashcode/)
+- [CodeChef's SnackDown🏆](https://www.codechef.com/snackdown)
+- [Coding Block's CodeSule🏆](https://hack.codingblocks.com/app/competitions/1)
+- Codechef Long Challenge🏆
+- Codechef Cook-Off 🏆
+- Codechef Lunchtime🏆
+- Codeforces Rounds Div1 & Div2 & Div3 & Educational Codeforces Round🏆
 
+## Books :high_brightness::high_brightness:
 
-## Books  :high_brightness::high_brightness:
 - [Competitive Programming 3📚](https://cpbook.net/)
 - [Data Structures and Algorithms Made Easy📚](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X) - by Narasimha Karumanchi
 - [Cracking the Coding Interview📚](http://www.crackingthecodinginterview.com/) - by Gayle Laakmann McDowell
 - [CP Handbook By Antti Laaksonen](https://github.com/pllk/cphb/blob/master/book.pdf)
 - [USACO Guide by the Competitive Programming Initiative](https://usaco.guide)
+- [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf) - by Antti Laaksonen
 
-## Algorithms  :high_brightness::high_brightness:
+## Algorithms :high_brightness::high_brightness:
+
 - [CP Algorithms](https://cp-algorithms.com/)
 - [Visual Alogorithms](https://visualgo.net/en)
 
-## Code Visualisation  :high_brightness::high_brightness:
+## Code Visualisation :high_brightness::high_brightness:
+
 - [C++ Code Visualisation](http://www.pythontutor.com/cpp.html)
 - [JAVA Code Visualisation](http://www.pythontutor.com/visualize.html)
 - [PYTHON Code Visualisation](http://www.pythontutor.com/visualize.html)
@@ -75,18 +78,20 @@ Interview prep: When you are trying to get an engineering job, companies will te
 
 ### Big O Notations
 
- - **CS Dojo** - Introduction to Big O Notation and Time Complexity
- - **Simple Snippets** - Asymptotic Analysis of Algorithms with Example
- - **Big-O CheatSheet** https://www.bigocheatsheet.com/
+- **CS Dojo** - Introduction to Big O Notation and Time Complexity
+- **Simple Snippets** - Asymptotic Analysis of Algorithms with Example
+- **Big-O CheatSheet** https://www.bigocheatsheet.com/
+
 ---
- ### STL in C++
- - **Codealittle** - [Video](https://www.youtube.com/watch?v=PCahjLFtlbY&list=PL1oKdRlSbldPUXbtWctRz14C1f8R78MVZ)
- - **Takeyouforward** - [Video](https://www.youtube.com/watch?v=zBhVZzi5RdU&t=1s)
- - **CppNuts** - [Video](https://www.youtube.com/watch?v=LyGlTmaWEPs&list=PLk6CEY9XxSIA-xo3HRYC3M0Aitzdut7AA)
- 
- 
- -  [ ] STL SUMMARY [Blog post](https://codeforces.com/blog/entry/6058)
- - [ ] [Vectors (Dynamic Arrays)](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
+
+### STL in C++
+
+- **Codealittle** - [Video](https://www.youtube.com/watch?v=PCahjLFtlbY&list=PL1oKdRlSbldPUXbtWctRz14C1f8R78MVZ)
+- **Takeyouforward** - [Video](https://www.youtube.com/watch?v=zBhVZzi5RdU&t=1s)
+- **CppNuts** - [Video](https://www.youtube.com/watch?v=LyGlTmaWEPs&list=PLk6CEY9XxSIA-xo3HRYC3M0Aitzdut7AA)
+
+- [ ] STL SUMMARY [Blog post](https://codeforces.com/blog/entry/6058)
+- [ ] [Vectors (Dynamic Arrays)](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
 - [ ] [Sets](https://www.geeksforgeeks.org/set-in-cpp-stl/)
   - [Set](https://www.geeksforgeeks.org/set-in-cpp-stl/)
   - [Unordered Set](https://www.geeksforgeeks.org/unordered_set-in-cpp-stl/)
@@ -100,11 +105,15 @@ Interview prep: When you are trying to get an engineering job, companies will te
 - [ ] [Pairs](https://www.geeksforgeeks.org/pair-in-cpp-stl/)
 - [ ] [Priority Queue (Min - Max Heaps)](https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/)
 - [ ] [Deque](https://www.geeksforgeeks.org/deque-cpp-stl/)
+
 ---
- ### Binary Search
- - **Aditya Verma** [Video](https://www.youtube.com/watch?v=j7NodO9HIbk&list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2)
- 
- **Problems**
+
+### Binary Search
+
+- **Aditya Verma** [Video](https://www.youtube.com/watch?v=j7NodO9HIbk&list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2)
+
+**Problems**
+
 - Allocate Minimum No of pages(GFG)
 - Aggressive Cows(SPOJ)
 - Prata(SPOJ)
@@ -112,36 +121,51 @@ Interview prep: When you are trying to get an engineering job, companies will te
 - EKO(SPOJ)
 - Square Root using BS (GFG)
 - Floor And Ceil in a Sorted Array(GFG)
-- First And Last occurence of an element(GFG)
+- First And Last occurrence of an element(GFG)
 - Count of element in a sorted array(GFG)
 - Search in a rotated Sorted Array(leetcode)
 - Logs(Atcoder)
 - Search in A 2D Matrix (Leetcode)
 - First bad version(Leetcode)
 - Heaters(Leetcode)
----
- ### Number Theory (Mathematics)
- - **CodeNCode** - [Video](https://www.youtube.com/watch?v=eRkqvQtm4DU&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG)
----
- ### Recursion and BackTracking
- - **Aditya Verma** - [Video](https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY)
- - **Codealittle** - [Video](https://www.youtube.com/watch?v=-9FinR1AVys&list=PL1oKdRlSbldN8ffk23nuYQZwO0HSIPy9F) 
----
- ### Bit Manipulations
- - **Codealittle** - [Video](https://www.youtube.com/watch?v=5upadP-hWXQ&list=PL1oKdRlSbldNz2p_xrBMf2GhCKRm-cH2A) 
- - **codencode** - [Video](https://www.youtube.com/watch?v=efL86JCONH0&list=PL2q4fbVm1Ik7ip1VkWwe5U_CEb93vw6Iu)
----
- ### Graph Theory
- - **CodeNcode** - [Video](https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
- - **Hitesh Tripathi** - [Video](https://www.youtube.com/watch?v=1BPQYzCYDx4&list=PLJOYB9TDUqmlnn9mu11qHxxQK_ioX9Wdm)
----
- ### Dynamic Programing
- - **Tushar Roy** - [Video](https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
- - **GeeksforGeeks** - [Video](https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm)
- - **Aditya Verma** - [Video](https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm)
- - **TakeYouForward** - [Video](https://www.youtube.com/watch?v=PPi3326JhGc&list=PLgUwDviBIf0pmD4Eur6Cl5XfBO4EtgKGe) 
+
 ---
 
+### Number Theory (Mathematics)
+
+- **CodeNCode** - [Video](https://www.youtube.com/watch?v=eRkqvQtm4DU&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG)
+
+---
+
+### Recursion and BackTracking
+
+- **Aditya Verma** - [Video](https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY)
+- **Codealittle** - [Video](https://www.youtube.com/watch?v=-9FinR1AVys&list=PL1oKdRlSbldN8ffk23nuYQZwO0HSIPy9F)
+
+---
+
+### Bit Manipulations
+
+- **Codealittle** - [Video](https://www.youtube.com/watch?v=5upadP-hWXQ&list=PL1oKdRlSbldNz2p_xrBMf2GhCKRm-cH2A)
+- **codencode** - [Video](https://www.youtube.com/watch?v=efL86JCONH0&list=PL2q4fbVm1Ik7ip1VkWwe5U_CEb93vw6Iu)
+
+---
+
+### Graph Theory
+
+- **CodeNcode** - [Video](https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
+- **Hitesh Tripathi** - [Video](https://www.youtube.com/watch?v=1BPQYzCYDx4&list=PLJOYB9TDUqmlnn9mu11qHxxQK_ioX9Wdm)
+
+---
+
+### Dynamic Programing
+
+- **Tushar Roy** - [Video](https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+- **GeeksforGeeks** - [Video](https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm)
+- **Aditya Verma** - [Video](https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm)
+- **TakeYouForward** - [Video](https://www.youtube.com/watch?v=PPi3326JhGc&list=PLgUwDviBIf0pmD4Eur6Cl5XfBO4EtgKGe)
+
+---
 
 ## Coding Platforms
 
@@ -153,8 +177,11 @@ Interview prep: When you are trying to get an engineering job, companies will te
 - **Short Contest** - [CodeForces](https://codeforces.com/)
 - **Mathematics** - [Project Euler](https://projecteuler.net/)
 - **Data Structures and Algorithms** - [LeetCode (For Data-Structures and Algos)](https://leetcode.com/)
+
 ---
-## Important Data Structures: 
+
+## Important Data Structures:
+
 - [Vectors (Dynamic Arrays)](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
 - [Strings](https://www.tutorialspoint.com/cplusplus/cpp_strings.htm)
 - [Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
@@ -168,68 +195,89 @@ Interview prep: When you are trying to get an engineering job, companies will te
   - [Unordered Set](https://www.geeksforgeeks.org/unordered_set-in-cpp-stl/)
   - [Multiset](http://www.cplusplus.com/reference/set/multiset/)
 - Map
+
   - [Map](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)
   - [Unordered Map](https://www.geeksforgeeks.org/unordered_map-in-cpp-stl/#:~:text=unordered_map%20is%20an%20associated%20container,type%20predefined%20or%20user%2Ddefined.)
   - [Multimap](https://www.geeksforgeeks.org/multimap-associative-containers-the-c-standard-template-library-stl/)
 
-- [Hash Tables](https://www.geeksforgeeks.org/implementing-hash-table-open-addressing-linear-probing-cpp/) 
-- [Disjoint-Set Data Structures](https://www.youtube.com/watch?v=wU6udHRIkcc) 
-- [Trie](https://www.youtube.com/watch?v=AXjmTQ8LEoI&t=946s) 
-- [Segment Tree](https://www.youtube.com/watch?v=FR5d4V7Z9SE) 
+- [Hash Tables](https://www.geeksforgeeks.org/implementing-hash-table-open-addressing-linear-probing-cpp/)
+- [Disjoint-Set Data Structures](https://www.youtube.com/watch?v=wU6udHRIkcc)
+- [Trie](https://www.youtube.com/watch?v=AXjmTQ8LEoI&t=946s)
+- [Segment Tree](https://www.youtube.com/watch?v=FR5d4V7Z9SE)
 - [Policy based Data Structures](https://codeforces.com/blog/entry/11080)
+
 ---
 
-## Searching  
-- Linear Search 
+## Searching
+
+- Linear Search
 - Binary Search
 - Ternary Search
+- Jump Search
+- Interpolation Search
+- Exponential Search
+
 ---
+
 ## Sorting
-- Selection Sort 
-- Bubble Sort 
-- Insertion Sort 
-- Merge Sort 
-- Quick Sort 
-- Heap Sort 
-- Radix Sort 
+
+- Selection Sort
+- Bubble Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Heap Sort
+- Radix Sort
 - Count Sort
 - bucket sort
+
 ---
-## Mathematics: 
+
+## Mathematics:
 
 ### Playlists
- - [**CodeNcode** ](https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
- 
-### Number Theory 
-- Prime Number Generation (Sieve, Segmented Sieve) 
-- Euler Totient Theorem 
-- Fermat’s Theorem 
-- HCF & LCM (Euclid) 
+
+- [**CodeNcode** ](https://www.youtube.com/watch?v=VW85xQ6GJP4&list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
+
+### Number Theory
+
+- Prime Number Generation (Sieve, Segmented Sieve)
+- Euler Totient Theorem
+- Fermat’s Theorem
+- HCF & LCM (Euclid)
 - Extended Euclid Algorithm
 - Fibonacci
-- Chinese Remainder Theorem 
-- Linear Diophantine Equations (Extended Euclid) 
+- Chinese Remainder Theorem
+- Linear Diophantine Equations (Extended Euclid)
 - Binary Exponentiation
-- Modulus Arithmetic (addition,multiplication,subtraction,modular Inverse) 
+- Modulus Arithmetic (addition,multiplication,subtraction,modular Inverse)
 
-### Probability 
-- Basic Probability and Conditional Probability 
-- Random Variables 
-- Probability Generating Functions 
-- Expectation 
-- Probability Distribution [Binomial, Poisson, Normal,Bernoulli] 
+### Probability
 
-### Linear Algebra 
-- Multiplication ( Strassen's algorithm ), Logarithmic exponentiation 
-- Matrix Transformations [ Transpose, Rotation Of Matrix, Representing Linear Transformations Using Matrix ] 
-- Determinant, Rank and Inverse Of Matrix [ Gaussian Elimination, Gauss Jordan Elimination] 
-- Solving System Of Linear Equations 
-- Matrix Exponentiation To Solve Recurrences 
+- Basic Probability and Conditional Probability
+- Random Variables
+- Probability Generating Functions
+- Expectation
+- Probability Distribution [Binomial, Poisson, Normal,Bernoulli]
+
+### Linear Algebra
+
+- Multiplication ( Strassen's algorithm ), Logarithmic exponentiation
+- Matrix Transformations [ Transpose, Rotation Of Matrix, Representing Linear Transformations Using Matrix ]
+- Determinant, Rank and Inverse Of Matrix [ Gaussian Elimination, Gauss Jordan Elimination]
+- Solving System Of Linear Equations
+- Matrix Exponentiation To Solve Recurrences
+
 ---
+
 ### Game Theory - [Video](https://www.youtube.com/watch?v=_thN1Rp_FRA)
---- 
+
+---
+
 ### Greedy
+
 **Problems**
+
 - BUSY MAN(SPOJ)
 - BIASED STANDINGS(SPOJ)
 - life(SPOJ)
@@ -252,73 +300,89 @@ Interview prep: When you are trying to get an engineering job, companies will te
 - Good Strings(Codeforces)
 - Palindromic Paths(Codeforces)
 - Gas Pipeline(Codeforces)
-## Graphs: 
+
+## Graphs:
 
 ### Playlists
-  - **CodeNCode** - [Video](https://www.youtube.com/watch?v=eRkqvQtm4DU&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG)
 
-### Graph Representation 
-- Adjacency Matrix 
-- Adjacency List 
+- **CodeNCode** - [Video](https://www.youtube.com/watch?v=eRkqvQtm4DU&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG)
 
-### Graph Types 
-- Directed 
-- Undirected 
-- Weighted 
+### Graph Representation
+
+- Adjacency Matrix
+- Adjacency List
+
+### Graph Types
+
+- Directed
+- Undirected
+- Weighted
 - Unweighted
-- Euler 
+- Euler
 
-### Graph Concepts 
+### Graph Concepts
+
 - DFS
 - BFS
-- Strongly Connected Component 
+- Strongly Connected Component
 - Connected Component
-- Cycle Detection 
-- Articulation Points 
-- Bridges   
-- Topological Sorting 
-- Bipartite Checking 
-- Flood-fill algorithm 
+- Cycle Detection
+- Articulation Points
+- Bridges
+- Topological Sorting
+- Bipartite Checking
+- Flood-fill algorithm
+
 ---
-## Graph/Tree Algorithms 
-- Prim’s Algorithm 
-- Kruskal Algorithm 
-- Dijkstra 
-- Bellman-Ford 
-- Floyd Warshall’s Algorithm 
-- Euler Tour 
+
+## Graph/Tree Algorithms
+
+- Prim’s Algorithm
+- Kruskal Algorithm
+- Dijkstra
+- Bellman-Ford
+- Floyd Warshall’s Algorithm
+- Euler Tour
 - Lowest Common Ancestor using Binary Lifting
 - Kruskal's Minimum Spanning Tree Algorithm
+
 ---
-## Dynamic Programming 
+
+## Dynamic Programming
 
 ### Playlists
+
 - [**Tushar Roy**](https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 - [**GeeksforGeeks**](https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm)
 - [**Aditiya verma**](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
 
-### Classical Problems 
+### Classical Problems
+
 - Fibonacci Series
-- Longest Common Substring 
-- Longest Increasing Subsequence 
-- Longest Palindromic Substring 
-- Edit Distance 
-- Egg Dropping Puzzle 
+- Longest Common Substring
+- Longest Increasing Subsequence
+- Longest Palindromic Substring
+- Edit Distance
+- Egg Dropping Puzzle
 - 0-1 Knapsack
 - Unbounded Knapsack
 - Subset Sum
-- Coin Change Combinations 
-- Coin Change Permutation 
-- Longest Common Subsequence 
-- Longest Substring Without Repeating Character 
-- Matrix Chain Multiplication 
-- Max Size Square Submatrix With One 
+- Coin Change Combinations
+- Coin Change Permutation
+- Longest Common Subsequence
+- Longest Substring Without Repeating Character
+- Matrix Chain Multiplication
+- Max Size Square Submatrix With One
 - Maximum Length Chain
 - Catalan Number And its Applications
-
+- Snake and Ladder Problem
+- Word Break Problem
+- N–Queens Problem
 
 ### Doubts and queries
+
 - https://stackoverflow.com/
 
 ### Thank you for Contributing :pray: :dizzy:
+
 ![105](https://contributors-img.web.app/image?repo=kothariji/competitive-programming)
