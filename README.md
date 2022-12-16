@@ -164,6 +164,7 @@ Interview prep: When you are trying to get an engineering job, companies will te
 - **GeeksforGeeks** - [Video](https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm)
 - **Aditya Verma** - [Video](https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm)
 - **TakeYouForward** - [Video](https://www.youtube.com/watch?v=PPi3326JhGc&list=PLgUwDviBIf0pmD4Eur6Cl5XfBO4EtgKGe)
+- **Scaler Topics** - [Tutorial](https://www.scaler.com/topics/data-structures/dynamic-programming/)
 
 ---
 
