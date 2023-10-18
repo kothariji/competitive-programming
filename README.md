@@ -26,6 +26,7 @@ According to me, competitive programming is a sport. A sport based on problem-so
 - #### [CSES](https://cses.fi/problemset/)
 - #### [binarysearch](https://www.binarysearch.com/)
 - #### [Coderbyte](https://coderbyte.com/#courses)
+- #### [Codewars](https://codewars.com/)
 ## BENEFITS OF COMPETITIVE PROGRAMMING
 
 The skills needed for competitive programming have long-lasting benefits to your career as a developer. There are numerous benefits to participating in competitive programming, including:
